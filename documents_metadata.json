@@ -1,7 +1,7 @@
 {
   "documents": [
     {
-      "file_path": "choices/Compilado todos los choices obstetricia.pdf",
+      "file_path": "sources/choices/Compilado todos los choices obstetricia.pdf",
       "title": "Compilado de todos los choices de Obstetricia",
       "author": "Compilación estudiantil",
       "type": "choices",
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "file_path": "Diapos extras/1FORCEPS.DR. DIDIA.pdf",
+      "file_path": "sources/slides/1FORCEPS.DR. DIDIA.pdf",
       "title": "Parto Forcipal",
       "author": "Dr. Dario Didia",
       "index": {
@@ -223,7 +223,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/HEMORRAGIA PUERPERAL. ETCHEPAREBORDA.pdf",
+      "file_path": "sources/slides/HEMORRAGIA PUERPERAL. ETCHEPAREBORDA.pdf",
       "title": "Hemorragia Puerperal",
       "author": "Dr. Mariano Etchepareborda",
       "index": {
@@ -237,7 +237,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/ECOGRAFIA 2 T. Y 3T.DRA. YABARRA.pdf",
+      "file_path": "sources/slides/ECOGRAFIA 2 T. Y 3T.DRA. YABARRA.pdf",
       "title": "Ecografía Obstétrica 2do y 3er Trimestre",
       "author": "Dra. Maria Gabriela Ybarra",
       "index": {
@@ -251,7 +251,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/CARDIOPATÍAS Y EMBARAZO.v2025.PDF.MESSINA.pdf",
+      "file_path": "sources/slides/CARDIOPATÍAS Y EMBARAZO.v2025.PDF.MESSINA.pdf",
       "title": "Cardiopatías y Embarazo",
       "author": "Dr. Horacio Messina",
       "index": {
@@ -267,7 +267,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/HIPOXIA FETAL AGUDA. DR. RUSCONI (1).pdf",
+      "file_path": "sources/slides/HIPOXIA FETAL AGUDA. DR. RUSCONI (1).pdf",
       "title": "Hipoxia Fetal Aguda",
       "author": "Dr. Carlos María Rusconi",
       "index": {
@@ -282,7 +282,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/19. 1CESAREA. DRA. CEPEDA.pdf",
+      "file_path": "sources/slides/19. 1CESAREA. DRA. CEPEDA.pdf",
       "title": "Cesárea",
       "author": "Dra. Cepeda Soledad",
       "index": {
@@ -297,7 +297,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/19. 1CESAREA. DRA. CEPEDA.pdf",
+      "file_path": "sources/slides/19. 1CESAREA. DRA. CEPEDA.pdf",
       "title": "Cesárea",
       "author": "Dra. Cepeda Soledad",
       "index": {
@@ -312,7 +312,7 @@
       }
     },
     {
-      "file_path": "Apunte Sol Modificado.pdf",
+      "file_path": "sources/Apunte Sol Modificado.pdf",
       "title": "Apunte de Obstetricia - Hospital de Clínicas",
       "author": "Sol Lamanna (Reedición 2024)",
       "index": {
@@ -337,7 +337,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/IVE - ILE. DRA. MORGANTI.pdf",
+      "file_path": "sources/slides/IVE - ILE. DRA. MORGANTI.pdf",
       "title": "IVE - ILE",
       "author": "Dra. Morganti",
       "index": {
@@ -349,7 +349,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/INDUCCION -CONDUCCION. DRA.VERA.pdf",
+      "file_path": "sources/slides/INDUCCION -CONDUCCION. DRA.VERA.pdf",
       "title": "Inducción y Conducción",
       "author": "Dra. Vera",
       "index": {
@@ -360,7 +360,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/Mecanismo de Parto en Presentacion Cefalica de Vertice. pdf. NICHOLSON.pdf",
+      "file_path": "sources/slides/Mecanismo de Parto en Presentacion Cefalica de Vertice. pdf. NICHOLSON.pdf",
       "title": "Mecanismo de Parto",
       "author": "Dr. Nicholson",
       "index": {
@@ -372,7 +372,7 @@
       }
     },
     {
-      "file_path": "Diapos extras/Medicina mmaterno fetal..pdf",
+      "file_path": "sources/slides/Medicina mmaterno fetal..pdf",
       "title": "Medicina Materno-Fetal",
       "author": "Cátedra",
       "type": "diapo",
@@ -385,7 +385,7 @@
       }
     },
     {
-      "file_path": "choices/Final octubre 2024.pdf",
+      "file_path": "sources/choices/Final octubre 2024.pdf",
       "title": "Final de Obstetricia - Octubre 2024",
       "author": "Cátedra de Obstetricia",
       "type": "choices",
@@ -421,7 +421,7 @@
       }
     },
     {
-      "file_path": "choices/Parical.pdf",
+      "file_path": "sources/choices/Parical.pdf",
       "title": "Final de Obstetricia - Octubre 2024 (copia)",
       "author": "Cátedra de Obstetricia",
       "type": "choices",
@@ -434,7 +434,7 @@
       "question_ids_in_pool": []
     },
     {
-      "file_path": "choices/Final.pdf",
+      "file_path": "sources/choices/Final.pdf",
       "title": "Final de Obstetricia - Diciembre 2024",
       "author": "Cátedra de Obstetricia",
       "type": "choices",
@@ -504,7 +504,7 @@
       }
     },
     {
-      "file_path": "choices/11-6/1.jpg",
+      "file_path": "sources/choices/11-6/1.jpg",
       "title": "Parcial Obstetricia 11/06/2025 - Foto 1 (Q1-5)",
       "author": "Cátedra de Obstetricia",
       "type": "choices",
@@ -528,7 +528,7 @@
       }
     },
     {
-      "file_path": "choices/11-6/2.jpg",
+      "file_path": "sources/choices/11-6/2.jpg",
       "title": "Parcial Obstetricia 11/06/2025 - Foto 2 (Q16-23)",
       "author": "Cátedra de Obstetricia",
       "type": "choices",
@@ -541,7 +541,7 @@
       "question_ids_in_pool": []
     },
     {
-      "file_path": "choices/11-6/3.jpg",
+      "file_path": "sources/choices/11-6/3.jpg",
       "title": "Parcial Obstetricia 11/06/2025 - Foto 3 (Q9-15)",
       "author": "Cátedra de Obstetricia",
       "type": "choices",
@@ -554,7 +554,7 @@
       "question_ids_in_pool": []
     },
     {
-      "file_path": "choices/11-6/4.jpg",
+      "file_path": "sources/choices/11-6/4.jpg",
       "title": "Parcial Obstetricia 11/06/2025 - Foto 4 (Q24-30)",
       "author": "Cátedra de Obstetricia",
       "type": "choices",
@@ -567,7 +567,7 @@
       "question_ids_in_pool": []
     },
     {
-      "file_path": "choices/PHOTO-2024-11-28-00-31-28.pdf",
+      "file_path": "sources/choices/PHOTO-2024-11-28-00-31-28.pdf",
       "title": "Examen Parcial Obstetricia 5° Rotación - Agosto 2024",
       "author": "Cátedra de Obstetricia",
       "type": "choices",
@@ -593,7 +593,7 @@
       }
     },
     {
-      "file_path": "choices/Parcial (1)-1.pdf",
+      "file_path": "sources/choices/Parcial (1)-1.pdf",
       "title": "Examen Parcial Obstetricia 5° Rotación - Agosto 2024 (copia + hoja respuestas)",
       "author": "Cátedra de Obstetricia",
       "type": "choices",

@@ -10,8 +10,8 @@ import json
 import PyPDF2
 from pathlib import Path
 
-PDF_PATH = "choices/Compilado todos los choices obstetricia.pdf"
-OUTPUT_PATH = "questions_compilado_all.json"
+PDF_PATH = "sources/choices/Compilado todos los choices obstetricia.pdf"
+OUTPUT_PATH = "tmp/questions_compilado_all.json"
 
 # Topic map: section headers in PDF → official CRONOGRAMA topic names
 TOPIC_MAP = {
@@ -488,7 +488,7 @@ def build_question_objects(raw_qs):
                 "source_name": "Compilado choices Obstetricia",
                 "text_excerpt": q_text[:150],
                 "page_number": None,
-                "file_path": "choices/Compilado todos los choices obstetricia.pdf"
+                "file_path": "sources/choices/Compilado todos los choices obstetricia.pdf"
             },
             "origin": "existing",
             "metadata": {
