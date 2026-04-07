@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_questions": 532,
+    "total_questions": 539,
     "topics": {
       "Cesárea": 26,
       "Fórceps": 20,
@@ -15071,6 +15071,197 @@
         "answer_reasoning": "El enunciado INCORRECTO respecto a la hipoxia fetal aguda es que 'la sola presencia de meconio es suficiente para realizar el diagnóstico'. El meconio puede estar sin hipoxia aguda. El diagnóstico requiere desaceleraciones tardías repetidas + pH fetal ácido. La opción A (índice 0) es la afirmación incorrecta."
       },
       "id": 532
+    },
+    {
+      "id": 533,
+      "question": "A que se considera teratogenos:",
+      "options": [
+        "farmacos",
+        "ultrasonido",
+        "acne",
+        "!vitamina D"
+      ],
+      "correct_index": 0,
+      "correct_letter": "A",
+      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado choices Obstetricia",
+        "text_excerpt": "A que se considera teratogenos:",
+        "page_number": null,
+        "file_path": "choices/Compilado todos los choices obstetricia.pdf"
+      },
+      "origin": "existing",
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Los teratógenos son agentes que causan malformaciones: ciertos fármacos, radiación, infecciones. El ultrasonido, vitamina D y acné no son teratógenos"
+      }
+    },
+    {
+      "id": 534,
+      "question": "Se considera agente teratógeno:",
+      "options": [
+        "A ciertos fármacos",
+        "A los ultrasonidos",
+        "A la vitamina D",
+        "Al acné"
+      ],
+      "correct_index": 0,
+      "correct_letter": "A",
+      "topic": "Doppler Materno Fetal y Monitoreo",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado choices Obstetricia",
+        "text_excerpt": "Se considera agente teratógeno:",
+        "page_number": null,
+        "file_path": "choices/Compilado todos los choices obstetricia.pdf"
+      },
+      "origin": "existing",
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Los agentes teratógenos incluyen ciertos fármacos. Ultrasonidos diagnósticos y vitamina D no son teratógenos"
+      }
+    },
+    {
+      "id": 535,
+      "question": "Una presentación cefálica móvil se encuentra en el plano de Hodge:",
+      "options": [
+        "Primero",
+        "Segundo",
+        "Tercero",
+        "Cuarto",
+        "Ninguno de ellos"
+      ],
+      "correct_index": 0,
+      "correct_letter": "A",
+      "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado choices Obstetricia",
+        "text_excerpt": "Una presentación cefálica móvil se encuentra en el plano de Hodge:",
+        "page_number": null,
+        "file_path": "choices/Compilado todos los choices obstetricia.pdf"
+      },
+      "origin": "existing",
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La presentación cefálica móvil corresponde al primer plano de Hodge (no ha ingresado a la pelvis)"
+      }
+    },
+    {
+      "id": 536,
+      "question": "Como se define Hipertensión Arterial durante el embarazo:",
+      "options": [
+        "TA mayor e igual a 140 /90 mmHG en un único control",
+        "TA mayor e igual a 140/90 mmHG en único control después de las 20 semanas de gestación",
+        "TA mayor e igual a 140/90 mmHG en 2 tomas separadas por 6 horas d mayor e igual a 140 /90 mmHG en 2 tomas separadas por 15 días después de las 20 semanas de gestación",
+        "TA mayor e igual a 140/90 mmHG en el primer trimestre de gestación"
+      ],
+      "correct_index": 2,
+      "correct_letter": "C",
+      "topic": "Hipertensión Inducida por el Embarazo",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado choices Obstetricia",
+        "text_excerpt": "Como se define Hipertensión Arterial durante el embarazo:",
+        "page_number": null,
+        "file_path": "choices/Compilado todos los choices obstetricia.pdf"
+      },
+      "origin": "existing",
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "HTA en embarazo: TA ≥140/90 en 2 tomas separadas ≥6h después de las 20 semanas de gestación. La opción C describe correctamente este criterio"
+      }
+    },
+    {
+      "id": 537,
+      "question": "El recuento de glóbulos blancos de la embarazada es:",
+      "options": [
+        "menor que el de la no embarazada",
+        "igual que el de la no embarazada",
+        "mayor que el de la no embarazada",
+        "varía según el índice de masa corporal e puede ser igual o menor pero nunca mayor"
+      ],
+      "correct_index": 2,
+      "correct_letter": "C",
+      "topic": "Doppler Materno Fetal y Monitoreo",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado choices Obstetricia",
+        "text_excerpt": "El recuento de glóbulos blancos de la embarazada es:",
+        "page_number": null,
+        "file_path": "choices/Compilado todos los choices obstetricia.pdf"
+      },
+      "origin": "existing",
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Durante el embarazo hay leucocitosis fisiológica (10.000-16.000/µL), por lo que los GB son mayores que en la no embarazada"
+      }
+    },
+    {
+      "id": 538,
+      "question": "La fibronec tina fetal en las secreciones cervicovaginales en los embarazos normales:",
+      "options": [
+        "aumenta desde las 16 semanas",
+        "disminuye desde las 22 semanas",
+        "disminuye desde las 24 semanas",
+        "disminuye desde las 34 semanas e ninguna es"
+      ],
+      "correct_index": 1,
+      "correct_letter": "B",
+      "topic": "Doppler Materno Fetal y Monitoreo",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado choices Obstetricia",
+        "text_excerpt": "La fibronec tina fetal en las secreciones cervicovaginales en los embarazos normales:",
+        "page_number": null,
+        "file_path": "choices/Compilado todos los choices obstetricia.pdf"
+      },
+      "origin": "existing",
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La fibronectina fetal es positiva en secreto cervicovaginal hasta las 22 semanas; luego disminuye en embarazos normales (ausencia entre 24-34 semanas es signo de bajo riesgo de parto prematuro)"
+      }
+    },
+    {
+      "id": 539,
+      "question": "La tromboflebitis pélvica  séptica es más frecuente:",
+      "options": [
+        "En la vena ovárica derecha",
+        "En la vena ovárica izquierda",
+        "En ambas venas ováricas simultáneamente",
+        "En ambas venas ováricas con similar frecuencia derecha o izquierda",
+        "Todas son correctas"
+      ],
+      "correct_index": 0,
+      "correct_letter": "A",
+      "topic": "Puerperio y Alumbramiento",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado choices Obstetricia",
+        "text_excerpt": "La tromboflebitis pélvica  séptica es más frecuente:",
+        "page_number": null,
+        "file_path": "choices/Compilado todos los choices obstetricia.pdf"
+      },
+      "origin": "existing",
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La tromboflebitis pélvica séptica afecta con mayor frecuencia la vena ovárica derecha, por su drenaje directo en la VCI a 90°"
+      }
     }
   ]
 }
