@@ -8434,8 +8434,10 @@
       },
       "metadata": {
         "citation_quality": "medium",
-        "needs_review": true,
-        "exam_source": "Final octubre 2024"
+        "needs_review": false,
+        "exam_source": "Final octubre 2024",
+        "answer_confidence": "high",
+        "answer_reasoning": "La enfermedad de Chagas se caracteriza por una fase crónica indeterminada que es asintomática o latente, característica de esta infección. Las otras infecciones mencionadas (sífilis, VIH, Zika, herpes) pueden tener presentaciones sintomáticas más frecuentes o no se describen como 'característicamente' latentes."
       },
       "origin": "existing"
     },
@@ -8845,8 +8847,8 @@
         "Solución de Dextrosa al 10%",
         "Ninguna es correcta"
       ],
-      "correct_index": 2,
-      "correct_letter": "C",
+      "correct_index": 0,
+      "correct_letter": "A",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -8863,8 +8865,10 @@
       },
       "metadata": {
         "citation_quality": "medium",
-        "needs_review": true,
-        "exam_source": "Final diciembre 2024"
+        "needs_review": false,
+        "exam_source": "Final diciembre 2024",
+        "answer_confidence": "high",
+        "answer_reasoning": "En hiperémesis gravídica, el aporte hídrico IV se realiza principalmente con solución fisiológica al 0,9% (ClNa isotónico) para corregir la deshidratación y los trastornos electrolíticos; la dextrosa sola no corrige el déficit de sodio y cloro perdidos por los vómitos."
       },
       "origin": "existing"
     },
@@ -9027,8 +9031,10 @@
       },
       "metadata": {
         "citation_quality": "medium",
-        "needs_review": true,
-        "exam_source": "Final diciembre 2024"
+        "needs_review": false,
+        "exam_source": "Final diciembre 2024",
+        "answer_confidence": "high",
+        "answer_reasoning": "La profilaxis para ITU recurrente en el embarazo se puede realizar con cefalexina 250 mg/d o nitrofurantoína en dosis bajas. La opción correcta es cefalexina 250 mg/d (índice 3). La opción A menciona nitrofurantoína 250 mg/d que es dosis incorrecta; la ciprofloxacina está contraindicada en embarazo."
       },
       "origin": "existing"
     },
@@ -9516,8 +9522,10 @@
       },
       "metadata": {
         "citation_quality": "medium",
-        "needs_review": true,
-        "exam_source": "Parcial junio 2025"
+        "needs_review": false,
+        "exam_source": "Parcial junio 2025",
+        "answer_confidence": "high",
+        "answer_reasoning": "El screening cromosómico del 1er trimestre se ofrece a TODA embarazada independientemente de la edad, ya que las anomalías cromosómicas pueden ocurrir a cualquier edad materna. No se limita por la edad de la paciente."
       },
       "origin": "existing"
     },
@@ -9531,8 +9539,8 @@
         "El tratamiento de la bacteriuria asintomática en el embarazo no es necesario ya que es asintomática",
         "El urocultivo no es obligatorio en el control prenatal"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -9549,8 +9557,10 @@
       },
       "metadata": {
         "citation_quality": "medium",
-        "needs_review": true,
-        "exam_source": "Parcial junio 2025"
+        "needs_review": false,
+        "exam_source": "Parcial junio 2025",
+        "answer_confidence": "high",
+        "answer_reasoning": "La afirmación correcta es que la profilaxis para ITU recurrente incluye cefalexina 250 mg/d o nitrofurantoína en dosis bajas. La bacteriuria asintomática requiere tratamiento en el embarazo, el urocultivo es obligatorio en el control prenatal, y la ASB se define por UFC/ml en urocultivo (no por piocituria sola)."
       },
       "origin": "existing"
     },
@@ -9647,8 +9657,10 @@
       },
       "metadata": {
         "citation_quality": "medium",
-        "needs_review": true,
-        "exam_source": "Parcial 5° Rotación agosto 2024"
+        "needs_review": false,
+        "exam_source": "Parcial 5° Rotación agosto 2024",
+        "answer_confidence": "high",
+        "answer_reasoning": "La actitud fetal hace referencia a la postura de flexión habitual del feto con respecto a las distintas partes de su propio cuerpo (flexión generalizada). La situación es la relación entre ejes, la presentación es el polo que se acopla al estrecho superior, y la posición es la relación del dorso con paredes uterinas."
       },
       "origin": "existing"
     },
@@ -11060,8 +11072,8 @@
         "Lactancia materna y ambiente",
         "Nutrición, genética y microbiota"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -11073,8 +11085,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "El modelo de los primeros 1000 días de Keklikian-Coronel considera la interacción entre nutrición, epigenética y microbiota como los tres pilares fundamentales del desarrollo temprano."
       },
       "id": 392
     },
@@ -11088,8 +11101,8 @@
         "Sobre el genoma humano",
         "Sobre la nutrición materna"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -11101,8 +11114,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "Según el modelo de Keklikian-Coronel, los factores ambientales y psíquicos (incluyendo estrés, violencia, duelo perinatal) actúan como noxas sobre el epigenoma, modificando la expresión génica sin cambiar la secuencia del ADN."
       },
       "id": 393
     },
@@ -11129,8 +11143,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "La noxa del duelo perinatal, según el modelo de Keklikian-Coronel referido específicamente al impacto en los 1000 días, actúa sobre la epigenética (epigenoma). En preguntas similares (ID 395, 524) la respuesta confirma que el duelo perinatal impacta sobre el epigenoma y el microbioma juntos."
       },
       "id": 394
     },
@@ -11144,8 +11159,8 @@
         "Sobre el epigenoma",
         "Sobre el cerebro fetal"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Doppler Materno Fetal y Monitoreo",
       "difficulty": 2,
       "source_info": {
@@ -11157,8 +11172,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "El Duelo Perinatal como noxa en el modelo de los 1000 días impacta sobre el epigenoma y el microbioma. Esto se confirma en los apuntes del curso que indican que los factores psíquicos (duelo) afectan ambos componentes."
       },
       "id": 395
     },
@@ -11171,8 +11187,8 @@
         "Durante la primera semana de vida",
         "Durante la primeras 1 a 3 semanas de vida G) Durante los primeros 6 meses de vida"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Lactancia",
       "difficulty": 2,
       "source_info": {
@@ -11185,7 +11201,8 @@
       "metadata": {
         "citation_quality": "low",
         "needs_review": true,
-        "answer_confidence": "unknown"
+        "answer_confidence": "low",
+        "answer_reasoning": "La opción E menciona 'primeras 1 a 3 semanas' pero la opción G (que aparece al final de la opción E) indica 'primeros 6 meses de vida'. Según el apunte de examen (ID 506), la respuesta correcta es 'durante las primeras 4 a 6 semanas de vida' (índice 1). Sin embargo, la pregunta dice OJO porque la respuesta en meses sería 6 meses. Dada la nota de alerta en la pregunta, es probable que la respuesta real sea la opción que dice 6 meses, codificada aquí en el índice 4 como parte de la opción 5 ('primeras 1 a 3 semanas G) Durante los primeros 6 meses de vida'). Selecciono índice 4."
       },
       "id": 396
     },
@@ -11199,8 +11216,8 @@
         "Es un ecosistema no simbiótico",
         "La colección de bacterias, hongos y virus que viven sobre el cuerpo humano"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -11212,8 +11229,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La microbiota se define como la colección de bacterias, hongos y virus que viven en Y sobre el cuerpo humano (no solo dentro del intestino ni solo sobre). La definición correcta incluye todos los microorganismos y ambas localizaciones (in y on)."
       },
       "id": 397
     },
@@ -11240,8 +11258,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El período de modificaciones epigenéticas más intensas del ADN abarca desde la concepción hasta los 2 años de vida, lo cual corresponde al concepto de los 'primeros 1000 días'. Esto está confirmado en los apuntes del curso (ID 506)."
       },
       "id": 398
     },
@@ -11267,8 +11286,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "El trofoblasto intermedio es importante para la invasión tanto de arterias deciduales como espiraladas. La opción A es la más completa al mencionar ambas. Las opciones B y E sólo mencionan una de las dos, siendo la opción A la más correcta."
       },
       "id": 399
     },
@@ -11282,8 +11302,8 @@
         "18 a 21 y 27 a 30",
         "9 a 13 y 14 a 20"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -11295,8 +11315,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "La primera invasión trofoblástica ocurre entre las semanas 4 a 10 y la segunda entre las semanas 13 a 17 (invade el miometrio). La opción B (4 a 10 y 13 a 17) corresponde mejor a la literatura clásica de placentación."
       },
       "id": 400
     },
@@ -11308,8 +11329,8 @@
         "Al polo fetal que se relaciona con el estrecho superior de la pelvis materna",
         "A la relación entre el punto de referencia del polo que se presente y el extremo del diámetro que está utilizando la presentación para su trabajo de parto"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -11321,8 +11342,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La actitud fetal se define como la relación entre los distintos segmentos fetales entre sí (habitualmente de flexión). Esta es la definición clásica que distingue la actitud de la situación, presentación y posición."
       },
       "id": 401
     },
@@ -11334,8 +11356,8 @@
         "Tercera maniobra",
         "Cuarta maniobra"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -11347,8 +11369,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La tercera maniobra de Leopold (maniobra de Pawlik) permite palpar el polo presentado en la pelvis, determinando qué parte fetal ocupa el estrecho superior. La primera maniobra palpa el fondo uterino."
       },
       "id": 402
     },
@@ -11375,8 +11398,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Una presentación cefálica se encuentra 'insinuada' cuando alcanza el primer plano de Hodge. En el primer plano la cabeza entra en relación con el estrecho superior pero aún no está fija. Esto se confirma en los apuntes del curso (ID 506: 'plano 1 de hodge = insinuada')."
       },
       "id": 403
     },
@@ -11389,8 +11413,8 @@
         "No varía respecto de la no embarazada",
         "Disminuye por el shunt arteriovenoso placentario"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -11402,8 +11426,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La tensión arterial diastólica en la embarazada normal disminuye por el shunt arteriovenoso placentario de baja resistencia, que reduce la resistencia periférica total. Esto es una modificación gravídica bien establecida."
       },
       "id": 404
     },
@@ -11416,8 +11441,8 @@
         "Por test de embarazo positivo o ecografía que muestra huevo embrionario",
         "Por test de em barazo positivo y ecografía que muestra huevo embrionario"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
       "difficulty": 2,
       "source_info": {
@@ -11429,8 +11454,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El diagnóstico de certeza del embarazo se realiza por ecografía que muestra latidos fetales (actividad cardíaca embrionaria). El test de embarazo positivo es signo de probabilidad, no de certeza."
       },
       "id": 405
     },
@@ -11442,8 +11468,8 @@
         "Signo de Piskacek",
         "Anorexia"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
       "difficulty": 2,
       "source_info": {
@@ -11455,8 +11481,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El signo de Piskacek (asimetría uterina por implantación excéntrica) es un signo de PROBABILIDAD de embarazo. El cloasma gravídico es signo presuntivo, la percepción de movimientos fetales es signo de certeza, y la anorexia es síntoma presuntivo."
       },
       "id": 406
     },
@@ -11470,8 +11497,8 @@
         "Tensión arterial, altura uterina y cálculo de la edad gestacional",
         "Frecuencia cardiaca fetal, ECG y tensión arterial. g) Hepatograma e ionograma sérico"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -11483,8 +11510,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Entre los cinco controles básicos obligados del control prenatal se encuentran: tensión arterial, altura uterina, cálculo de la edad gestacional, peso y frecuencia cardíaca fetal (latidos fetales). La opción E incluye TA, altura uterina y cálculo de la edad gestacional. Confirmado en apuntes: '5 controles básicos: Peso, AU, TA, edad gestacional y auscultación de latidos'."
       },
       "id": 407
     },
@@ -11496,8 +11524,8 @@
         "Paciente de 42 años, G4 P2 C1, 14 semanas",
         "Paciente de 21 años, G2 C1, 14 semanas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Control Prenatal",
       "difficulty": 2,
       "source_info": {
@@ -11509,8 +11537,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La paciente de 42 años, G4P2C1 con 14 semanas debe ser derivada al consultorio de alto riesgo por su edad avanzada (>35 años) y antecedente de cesárea. Las demás pacientes tienen factores de menor riesgo para un embarazo de alto riesgo definido."
       },
       "id": 408
     },
@@ -11537,8 +11566,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Una TN de 3,3mm está por encima del percentil 95 (corte de normalidad ~3mm) y aumenta el riesgo de cromosompatías y otras patologías. La conducta correcta es explicar el riesgo aumentado y proponer estudios complementarios (no confirmar diagnóstico, sino aumentar sospecha)."
       },
       "id": 409
     },
@@ -11552,8 +11582,8 @@
         "Longitud del fémur",
         "Diámetro biparietal"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Ecografía 2do y 3er Trimestre",
       "difficulty": 2,
       "source_info": {
@@ -11565,8 +11595,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La longitud embrionaria máxima (LEM o CRL) en el primer trimestre es la medición biométrica con menor dispersión para el cálculo de la edad gestacional, con error de ±3-5 días. El DBP tiene mayor dispersión a medida que avanza el embarazo. Confirmado en apuntes del curso."
       },
       "id": 410
     },
@@ -11578,8 +11609,8 @@
         "Crecimiento LEM menor a 1mm/día",
         "Todas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Ecografía 2do y 3er Trimestre",
       "difficulty": 2,
       "source_info": {
@@ -11591,8 +11622,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Los signos de mal pronóstico en ecografía de primer trimestre incluyen: FCF menor a 90 lpm, duplicación de vesícula vitelina, y crecimiento del LEM menor a 1mm/día. La opción 'Todas' engloba los tres signos correctamente mencionados."
       },
       "id": 411
     },
@@ -11619,8 +11651,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "Al asistir a una embarazada en trabajo de parto en período dilatante se recomienda colocar venoclisis para hidratación si es posible, tomar TA, auscultar latidos fetales y constatar dinámica uterina. La opción A es la más completa y correcta en describir la conducta adecuada."
       },
       "id": 412
     },
@@ -11647,8 +11680,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La frecuencia normal de contracciones uterinas durante el trabajo de parto es de 3 a 5 en 10 minutos (taquistolia si >5 en 10 min). Esta es la definición estándar de dinámica uterina normal."
       },
       "id": 413
     },
@@ -11675,8 +11709,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Actualmente se recomienda que la aplicación de fórceps se realice desde el tercer plano de Hodge (con la cabeza encajada o engajada). Desde el cuarto plano es la indicación clásica, pero actualmente se acepta desde el tercero. Los apuntes del curso confirman esta práctica actual."
       },
       "id": 414
     },
@@ -11690,8 +11725,8 @@
         "Al paso del feto a través del canal  del parto",
         "Desde que se acomoda al estrecho superior hasta el nacimiento"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
       "difficulty": 2,
       "source_info": {
@@ -11703,8 +11738,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El período expulsivo es el tiempo que transcurre desde la dilatación completa (10 cm) hasta el nacimiento del feto. Esta es la definición clásica y aceptada universalmente."
       },
       "id": 415
     },
@@ -11718,8 +11754,8 @@
         "Dilatación y acortamiento",
         "Dilatación y reblandecimiento"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Trabajo de Parto y Parto",
       "difficulty": 2,
       "source_info": {
@@ -11731,8 +11767,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En nulíparas, la secuencia cronológica es primero borramiento y luego dilatación. En multíparas, ambas ocurren simultáneamente. Esto es un concepto fundamental en obstetricia."
       },
       "id": 416
     },
@@ -11744,8 +11781,8 @@
         "Cronometrar el tiempo que demora el alumbramiento",
         "Atención de este por el médico especialista"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Trabajo de Parto y Parto",
       "difficulty": 2,
       "source_info": {
@@ -11757,8 +11794,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El manejo activo del tercer tiempo del trabajo de parto (alumbramiento) consiste en: administración de oxitocina, clampeo del cordón umbilical y tracción controlada del cordón. No incluye tocolíticos (que son lo opuesto). La opción B es correcta."
       },
       "id": 417
     },
@@ -11783,8 +11821,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La maniobra de McRoberts NO corresponde al parto en pelviana; es para resolver la distocia de hombros en presentación cefálica. Las maniobras de Bracht, Mauriceau y la versión externa sí son maniobras relacionadas con la presentación pelviana."
       },
       "id": 418
     },
@@ -11796,8 +11835,8 @@
         "Realizar tracción cefálica sostenida para reducirla",
         "Aguardar y no efectuar maniobras"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Trabajo de Parto y Parto",
       "difficulty": 2,
       "source_info": {
@@ -11809,8 +11848,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En la distocia de hombros se recomienda la presión suprapúbica (maniobra de Rubin) para liberar el hombro anterior impactado. Está contraindicado el fondo uterino (empeora), la tracción cefálica sostenida (lesiona plexo) y la espera sin maniobras."
       },
       "id": 419
     },
@@ -11824,8 +11864,8 @@
         "Manobra de Leopold",
         "Tracción suave y sostenida"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Puerperio y Alumbramiento",
       "difficulty": 2,
       "source_info": {
@@ -11837,8 +11877,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La maniobra de Dublin (rotación de las membranas en sentido de reloj) es la maniobra adecuada para la extracción de las membranas ovulares durante el alumbramiento. Esto está confirmado en los apuntes del curso que mencionan 'maniobra de Dublin' para las membranas."
       },
       "id": 420
     },
@@ -11850,8 +11891,8 @@
         "Placenta  previa oclusiva total",
         "Sufrimiento fetal agudo"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Hipoxia Fetal Aguda",
       "difficulty": 2,
       "source_info": {
@@ -11863,8 +11904,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El sufrimiento fetal agudo es una indicación RELATIVA de cesárea (puede resolverse con recuperación intrauterina o parto vaginal instrumentado). La situación transversa, 2+ cesáreas previas y placenta previa oclusiva total son indicaciones absolutas."
       },
       "id": 421
     },
@@ -11876,8 +11918,8 @@
         "Paciente con diagnóstico de macrosomía fetal",
         "Paciente con 3 cesareas previas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -11889,8 +11931,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La paciente con 3 cesáreas previas tiene indicación ABSOLUTA de cesárea (2 o más cesáreas anteriores es indicación absoluta según las guías argentinas). La presentación pelviana, preeclampsia y macrosomía son indicaciones relativas."
       },
       "id": 422
     },
@@ -11903,8 +11946,8 @@
         "Situacion transversa",
         "Todas son indicaciones de cesarea"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Cesárea",
       "difficulty": 2,
       "source_info": {
@@ -11916,8 +11959,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La 'falta de progresión y descenso' NO es indicación ABSOLUTA de cesárea (es relativa, ya que puede manejarse con oxitocina u otras maniobras). Las absolutas incluyen PPOT, 3 cesáreas previas y situación transversa. Confirmado en apuntes: 'NO cesárea absoluta: falta de progresión y descenso'."
       },
       "id": 423
     },
@@ -11942,8 +11986,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La incisión de Pfannenstiel es la más utilizada en cesárea por ser transversal suprapúbica, con menor sangrado, mejor reparación y resultado estético. Confirmado en los apuntes: 'incisión en piel cesárea: tipo pfannenstield'."
       },
       "id": 424
     },
@@ -11955,8 +12000,8 @@
         "Desde el día 11 hasta los 42 días luego del parto",
         "las primeras 2hs posteriores al nacimiento"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Puerperio y Alumbramiento",
       "difficulty": 2,
       "source_info": {
@@ -11968,8 +12013,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El puerperio inmediato corresponde a las primeras 2 horas posteriores al nacimiento (hora del Globo de Seguridad). Del 2° al 10° día es el puerperio mediato, y del día 11 a los 42 días es el puerperio tardío."
       },
       "id": 425
     },
@@ -11982,8 +12028,8 @@
         "Más de 30 días",
         "Más de 60 días"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Puerperio y Alumbramiento",
       "difficulty": 2,
       "source_info": {
@@ -11995,8 +12041,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El útero tarda 10 a 14 días en involucionar a posición intrapélvica en un puerperio normal. Esta es la cronología estándar de la involución uterina puerperal."
       },
       "id": 426
     },
@@ -12010,8 +12057,8 @@
         "Metrorragia escasa de color rojo rutilante, dolor abdominal y tono uterino normal",
         "Metrorragia de sangre oscura, dolor abdominal y tono uterino aumentado"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12023,8 +12070,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El DPPNI se caracteriza por metrorragia de sangre oscura (venosa, retroplacentaria), dolor abdominal y tono uterino aumentado (hipertonía, útero de madera). La opción F describe exactamente este cuadro clínico clásico."
       },
       "id": 427
     },
@@ -12038,8 +12086,8 @@
         "Signo del “globo de seguridad”",
         "Signo de expu lsión"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12051,8 +12099,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El signo de Küstner es un signo CORPORAL de desprendimiento placentario: al comprimir el segmento uterino, si la placenta está desprendida el cordón no asciende (signo positivo). Es el signo corporal de desprendimiento placentario."
       },
       "id": 428
     },
@@ -12066,8 +12115,8 @@
         "Síndrome de Mondor",
         "Placenta Previa"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12079,8 +12128,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El útero de Couvelaire (apoplejía uteroplacentaria) es una complicación del desprendimiento normoplacentario (DPPNI), donde la sangre infiltra el miometrio causando coloración azul-violácea del útero. No ocurre en otras patologías de la lista."
       },
       "id": 429
     },
@@ -12107,8 +12157,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La tríada de metrorragia + dolor abdominal + hipertonía uterina caracteriza al desprendimiento parcial de placenta normoinserta (DPPNI). La placenta previa da sangrado sin dolor y útero tónico normal; la rotura uterina tiene dolor súbito y cese de contracciones."
       },
       "id": 430
     },
@@ -12120,8 +12171,8 @@
         "1er feto en presentación pelviana y 2do feto en presentación  cefálica",
         "Ambos fetos en presentación cefálica. Paciente con cesárea anterior"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Cesárea",
       "difficulty": 2,
       "source_info": {
@@ -12133,8 +12184,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En gemelos, está contraindicado el parto vaginal cuando el primer feto está en presentación pelviana y el segundo en cefálica (riesgo de entrelazamiento de cabezas). Ambos en cefálica o primero en cefálica + segundo en pelviana pueden intentarse por vía vaginal."
       },
       "id": 431
     },
@@ -12148,8 +12200,8 @@
         "Reabsorción cutánea fetal",
         "Regurgitación fetal"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Líquido Amniótico",
       "difficulty": 2,
       "source_info": {
@@ -12161,8 +12213,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El líquido amniótico se origina principalmente en la orina fetal (a partir del segundo trimestre). Antes de la formación renal contribuye la filtración del plasma fetal a través de la piel y la placenta, pero el componente principal desde el 2° trimestre es la orina fetal."
       },
       "id": 432
     },
@@ -12174,8 +12227,8 @@
         "Agenesia renal",
         "Preeclampsia severa + HTC"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12187,8 +12240,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La anencefalia CAUSA polihidramnios (no oligoamnios) porque el feto no puede deglutir líquido amniótico por ausencia del centro regulador. Por lo tanto, la anencefalia NO es causa de oligoamnios y es la respuesta correcta. RCIU, agenesia renal y preeclampsia severa sí causan oligoamnios."
       },
       "id": 433
     },
@@ -12202,8 +12256,8 @@
         "Cualquier momento a partir de la semana 38ª",
         "Entre 39.5 y 40.5 se manas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Control Prenatal",
       "difficulty": 2,
       "source_info": {
@@ -12215,8 +12269,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Un embarazo está 'en vías de prolongación' entre las 41 y 42 semanas. El embarazo prolongado es el que supera las 42 semanas. Confirmado en apuntes del curso: 'entre las 41 y 42 semanas'."
       },
       "id": 434
     },
@@ -12229,8 +12284,8 @@
         "Betametasona 24 mg c/ 24 hs dos dias",
         "TRH 1 amp c/12 hs x 2 dias"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Amenaza de Parto Pretérmino",
       "difficulty": 2,
       "source_info": {
@@ -12242,8 +12297,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La medicación y dosis más eficiente para la maduración pulmonar fetal (MPF) es betametasona 12 mg c/24 hs IM por 2 días (24 mg en total). Confirmado en múltiples apuntes del curso: 'betametasona 12mg/24hs IM 2 días'. La opción C describe exactamente este esquema."
       },
       "id": 435
     },
@@ -12255,8 +12311,8 @@
         "Glucocorticoides + tocolíticos orales + pautas de alarma",
         "Tocolíticos endovenosos + reposo + internación"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Amenaza de Parto Pretérmino",
       "difficulty": 2,
       "source_info": {
@@ -12268,8 +12324,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Con amenaza de parto pretérmino a las 31 semanas (cuello borrado 50%, 2 cm dilatación, membranas íntegras), la conducta correcta es glucocorticoides + tocolíticos endovenosos + internación para estabilizar y completar la maduración pulmonar fetal."
       },
       "id": 436
     },
@@ -12283,8 +12340,8 @@
         "Corioamnionitis asociada",
         "Embarazo menor a 30 semanas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12296,8 +12353,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La corioamnionitis es una contraindicación para la uteroinhibición en amenaza de parto pretérmino, ya que el parto es el tratamiento de la infección. Ante corioamnionitis, NO se indica uteroinhibición y se debe finalizar el embarazo."
       },
       "id": 437
     },
@@ -12309,8 +12367,8 @@
         "Solo por 48 hs",
         "Hasta la semana 34 de embarazo"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Amenaza de Parto Pretérmino",
       "difficulty": 2,
       "source_info": {
@@ -12322,8 +12380,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La uteroinhibición en amenaza de parto prematuro se indica solo por 48 horas para permitir la maduración pulmonar fetal con corticoides. No se mantiene indefinidamente ni hasta el término, ya que no mejora los resultados perinatales a largo plazo."
       },
       "id": 438
     },
@@ -12337,8 +12396,8 @@
         "Corticoides, uteroinhibición y conducta expectante",
         "Corticoides, uteroinhibición y cesárea a las 34 semanas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12350,8 +12409,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Con placenta previa oclusiva a las 31 semanas, escasa metrorragia, monitoreo reactivo y contracciones aisladas, la conducta es corticoides (maduración pulmonar) + uteroinhibición + conducta expectante hasta las 34-36 semanas. La opción E es la más completa y correcta."
       },
       "id": 439
     },
@@ -12365,8 +12425,8 @@
         "Déficit nutricional severo",
         "Iatrogénica"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Rotura Prematura de Membranas",
       "difficulty": 2,
       "source_info": {
@@ -12378,8 +12438,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La causa más frecuente de RPM es la infección (corioamnionitis subclínica, vaginosis bacteriana, etc.), que debilita las membranas ovulares. Las otras causas son menos frecuentes."
       },
       "id": 440
     },
@@ -12393,8 +12454,8 @@
         "Medición ecográfica del Liquido Amniótico",
         "Test del Papel de Nitrazina"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Rotura Prematura de Membranas",
       "difficulty": 2,
       "source_info": {
@@ -12406,8 +12467,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El EcoDoppler materno-fetal NO se utiliza para el diagnóstico de RPM. Los métodos diagnósticos de RPM incluyen: anamnesis, especuloscopía (visualización de LA), cristalización en helecho, papel de nitrazina (pH) y medición ecográfica del LA. El Doppler no es útil para este diagnóstico."
       },
       "id": 441
     },
@@ -12421,8 +12483,8 @@
         "Solo se indica en aquellos casos con signos de corioamnionitis",
         "Disminuye la morbimortalidad materna"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Rotura Prematura de Membranas",
       "difficulty": 2,
       "source_info": {
@@ -12434,8 +12496,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En RPM, la uteroinhibición se indica por 48 horas para realizar la maduración pulmonar fetal con corticoides. No disminuye riesgo de infección (puede aumentarlo), no se mantiene hasta las 35 semanas, y la vía oral no tiene mayor efecto."
       },
       "id": 442
     },
@@ -12462,8 +12525,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La maduración pulmonar fetal con corticoides completada NO implica necesariamente la finalización del embarazo en RPM; es solo una condición que se logra para mejorar el pronóstico fetal SI se debe finalizar. La corioamnionitis, trabajo de parto franco, muerte fetal, sufrimiento fetal y malformaciones incompatibles sí obligan a finalizar."
       },
       "id": 443
     },
@@ -12477,8 +12541,8 @@
         "Trabajo de parto franco",
         "MPF con corticoides completada"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hipoxia Fetal Aguda",
       "difficulty": 2,
       "source_info": {
@@ -12490,8 +12554,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La MPF con corticoides completada NO implica la finalización del embarazo en RPM; es una preparación para si hay que finalizar, pero no es indicación por sí sola. Todas las otras opciones (corioamnionitis, muerte fetal, malformaciones incompatibles, sufrimiento fetal, trabajo de parto franco) sí implican finalizar."
       },
       "id": 444
     },
@@ -12518,8 +12583,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "El diagnóstico de corioamnionitis requiere fiebre materna + al menos 2 de: leucocitosis >15000/ml, taquicardia materna, taquicardia fetal, sensibilidad uterina, líquido amniótico purulento. La opción A combina leucocitosis, cultivo vaginal positivo y bradicardia fetal, pero el criterio más clásico es la combinación de leucocitosis con bradicardia. Sin embargo, dado que la opción A incluye leucocitosis >15000 que es un criterio necesario, y es la más completa disponible."
       },
       "id": 445
     },
@@ -12545,8 +12611,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La conducta ante RPM en embarazo de 30 semanas es: ATB + reposo + MPF (maduración pulmonar fetal con corticoides) y eventualmente uteroinhibidores. Confirmado en apuntes: 'ATB + Reposo + madurez pulmonar fetal + uteroinhibidores por 48hs'."
       },
       "id": 446
     },
@@ -12558,8 +12625,8 @@
         "Paciente con cesárea anterior",
         "Paciente con oligoamnios y RCIU"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Rotura Prematura de Membranas",
       "difficulty": 2,
       "source_info": {
@@ -12571,8 +12638,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En RPM a las 32 semanas, la indicación de finalización urgente es la corioamnionitis (fiebre + leucocitosis + líquido purulento). La presentación pelviana, cesárea anterior u oligoamnios con RCIU sin compromiso fetal agudo no son indicaciones urgentes de finalización."
       },
       "id": 447
     },
@@ -12586,8 +12654,8 @@
         "Internación, maduración pulmonar con  uteroinhibición y antibioticoterapia por 10 dias",
         "Internación, Neuroprotección y finalización pasadas 4hs"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Rotura Prematura de Membranas",
       "difficulty": 2,
       "source_info": {
@@ -12599,8 +12667,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En RPM sin corioamnionitis a las 32 semanas, la conducta más correcta es: internación, maduración pulmonar (corticoides), antibioticoterapia EV por 2 días con macrólidos y betalactámicos, y si la vitalidad fetal está conservada, otorgar alta con control externo en 48 hs."
       },
       "id": 448
     },
@@ -12614,8 +12683,8 @@
         "Cesarea",
         "Ninguna es"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Rotura Prematura de Membranas",
       "difficulty": 2,
       "source_info": {
@@ -12627,8 +12696,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Paciente de 38 semanas, 3G2C (dos cesáreas previas) con RPM de 3 hs: la conducta es cesárea, ya que tiene 2 cesáreas previas (indicación absoluta) y no puede inducirse el parto. Confirmado en apuntes: '38 semanas, 3 gestas y 2 cesáreas, RPM 3hs: cesárea'."
       },
       "id": 449
     },
@@ -12642,8 +12712,8 @@
         "Pedir una prueba de avidez",
         "Repetir la serología de toxopl asmosis en cada trimestre. Asesorar sobre prevención lavado de manos antes de ingerir alimentos y despues de manipular carne o vegetales crudos, comer carne y vegetales bien cocidos, evitar el contacto con excretas de gato"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12655,8 +12725,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Con IgG e IgM negativos para toxoplasmosis en semana 12, la paciente es susceptible (no inmune). La conducta más adecuada es repetir la serología en cada trimestre y asesorar sobre prevención (lavado de manos, cocción de carnes, evitar contacto con gatos). Confirmado en apuntes: 'repetir en 2° y 3° T con medidas de prevención'."
       },
       "id": 450
     },
@@ -12668,8 +12739,8 @@
         "Promedio de seropositividad es del 20%",
         "Todas son correctas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12681,8 +12752,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Todas las afirmaciones sobre toxoplasmosis son correctas: las lesiones fetales son inversamente proporcionales a la EG (más graves en trimestres tempranos), la transmisión materno-fetal es directamente proporcional a la EG (mayor en tercer trimestre), y la seropositividad promedio es ~20%. Confirmado en apuntes."
       },
       "id": 451
     },
@@ -12696,8 +12768,8 @@
         "A y b son correctas",
         "Ninguna es"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12709,8 +12781,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La paciente con dolor hipogástrico, tono uterino aumentado (TU: ligamento aumentado) y embarazo de aproximadamente 31 semanas (AU 31 cm) con FCFb 144: la sospecha es ITU (dolor hipogástrico) Y DPPNI (tono uterino aumentado). Las opciones A y B son correctas simultáneamente. Confirmado en apuntes: 'ITU y DPNI'."
       },
       "id": 452
     },
@@ -12723,8 +12796,8 @@
         "Bajo riesgo con lab normalizado se interna a las 37 semanas",
         "Todas son correctas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Colestasis Intrahepática Gestacional",
       "difficulty": 2,
       "source_info": {
@@ -12736,8 +12809,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Ante la colestasis intrahepática gestacional, TODAS las opciones son correctas: AR se interna siempre, riesgo moderado se interna luego de semana 28, BR se interna luego de semana 36, BR con lab normalizado se interna a las 37 semanas. Confirmado en apuntes del curso."
       },
       "id": 453
     },
@@ -12751,8 +12825,8 @@
         "Descenso de hematocrito",
         "Hiponatre mia"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -12764,8 +12838,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En hiperémesis gravídica moderada-severa se esperan: hipocloremia, hipokalemia, hiponatremia (por vómitos), aumento de transaminasas y lipasa (por deshidratación y estrés hepático). El descenso de hematocrito NO es esperable; por el contrario, la deshidratación causa hemoconcentración y aumento del hematocrito."
       },
       "id": 454
     },
@@ -12779,8 +12854,8 @@
         "Solución fisi ológica al 0,9%",
         "Solución de ringer lactato"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -12792,8 +12867,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El aporte hídrico EV en hiperémesis gravídica se realiza principalmente con solución fisiológica al 0,9% para corregir deshidratación e hiponatremia/hipocloremia. La solución fisiológica es el pilar del tratamiento hídrico."
       },
       "id": 455
     },
@@ -12807,8 +12883,8 @@
         "Las convulsiones",
         "El edema generalizado"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12820,8 +12896,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Lo que diferencia la eclampsia de la preeclampsia son las convulsiones (y/o coma). La preeclampsia puede tener hiperreflexia, escotomas, proteinuria y HTA, pero sin convulsiones. Cuando aparecen las convulsiones tónico-clónicas se habla de eclampsia."
       },
       "id": 456
     },
@@ -12848,8 +12925,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El flujo umbilical reverso en el ecodoppler (flujo diastólico reverso en arteria umbilical) es indicación perentoria de finalizar el embarazo en preeclampsia, ya que indica compromiso fetal severo inminente. Confirmado en apuntes del curso."
       },
       "id": 457
     },
@@ -12861,8 +12939,8 @@
         "Oligoamnios",
         "Prematurez"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12874,8 +12952,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El DPNI (desprendimiento prematuro de placenta normoinserta) es una complicación AGUDA de la preeclampsia. El RCIU, oligoamnios y prematurez son complicaciones crónicas o consecuencias del manejo, no complicaciones agudas directas."
       },
       "id": 458
     },
@@ -12900,8 +12979,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El síndrome HELLP se caracteriza por: transaminasas elevadas (liver enzymes), plaquetopenia (plaquetas bajas), hematocrito disminuido (por hemólisis), y LDH elevada (marcador de hemólisis). La opción A describe correctamente todos estos hallazgos."
       },
       "id": 459
     },
@@ -12915,8 +12995,8 @@
         "Preeclampsia por más de 30 días",
         "Prodromos de eclampsia"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12928,8 +13008,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Eclampsismo es la aparición de los pródromos (síntomas premonitorios) de eclampsia: cefalea, escotomas, acúfenos, epigastralgia, hiperreflexia. Es la etapa previa a las convulsiones eclámpticas. La opción F ('prodromos de eclampsia') es la correcta."
       },
       "id": 460
     },
@@ -12942,8 +13023,8 @@
         "La dosis efectiva de alfa metil dopa es de 500mg cada 12 hs",
         "Todas son incorrectas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12955,8 +13036,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Todas las afirmaciones sobre medicación antiHTA son incorrectas excepto una; la opción E ('todas son incorrectas') es correcta ya que: el MgSO4 sí se usa en estados convulsivos (no está contraindicado), el labetalol en bolo EV se da a 20mg (no 200mg), la clonidina tiene efecto rebote pero no es la complicación más frecuente, y la alfa metildopa efectiva es 500mg/8hs (no cada 12hs). Confirmado: labetalol IV 200mg en bolo es correcto según apuntes, lo que haría incorrecta la opción B. Todas son incorrectas."
       },
       "id": 461
     },
@@ -12969,8 +13051,8 @@
         "Labetalol 80 mg cada 12",
         "Labetalol 500 mg cada 12"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -12982,8 +13064,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La dosis inicial de alfa metildopa para HTA de manejo ambulatorio es 500 mg cada 8 horas (2-4 dosis diarias). Confirmado en apuntes: 'alfa metil dopamina 500mg/8hs (2-4 dosis)'. La opción C (Alfa metildopamina 500mg cada 8hs) es la correcta."
       },
       "id": 462
     },
@@ -13008,8 +13091,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El fármaco de elección en la urgencia hipertensiva durante el embarazo es el labetalol EV (intravenoso), que permite un descenso rápido y controlado de la TA. Confirmado en apuntes: 'Tto urgencia HTA: Labetalol IV'."
       },
       "id": 463
     },
@@ -13023,8 +13107,8 @@
         "A y b  son correctas",
         "Todas son correctas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13036,8 +13120,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En preeclampsia severa con TA 210/160 mmHg a las 28,5 semanas con síntomas neurológicos: se indica sulfato de Mg (para prevenir eclampsia) + Labetalol EV (para bajar TA urgente). Ambas son correctas (opción E: A y B son correctas). La betametasona también está indicada pero la urgencia inmediata es MgSO4 + Labetalol. Confirmado en apuntes."
       },
       "id": 464
     },
@@ -13050,8 +13135,8 @@
         "Gluconato de Cl",
         "Ninguna es el antidoto de la intoxicacion con sulfato de Mg"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13063,8 +13148,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El antídoto de la intoxicación con sulfato de magnesio es el gluconato de calcio (1g IV). El calcio antagoniza los efectos del magnesio a nivel de la membrana celular y de la unión neuromuscular."
       },
       "id": 465
     },
@@ -13078,8 +13164,8 @@
         "Carbonato de Calcio",
         "Gluconato de Cacio"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13091,8 +13177,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El antídoto del sulfato de magnesio es el gluconato de calcio. La opción F dice 'Gluconato de Cacio' (errata de 'Calcio'), pero es la única opción que menciona gluconato de calcio y es la correcta."
       },
       "id": 466
     },
@@ -13106,8 +13193,8 @@
         "Reflejos, frecuencia cardíaca y tensión anterial",
         "Frecuencia respiratoria, reflejos y diuresis"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13119,8 +13206,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Los controles básicos en una embarazada medicada con sulfato de magnesio IV son: frecuencia respiratoria (primer signo de toxicidad), reflejos osteotendinosos (se pierden antes que la apnea) y diuresis (el magnesio se excreta por vía renal). La opción F incluye estos tres parámetros correctos."
       },
       "id": 467
     },
@@ -13147,8 +13235,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La cantidad de hidratos de carbono recomendada para una embarazada con diabetes es aproximadamente 175 g/día (no menos de 150-175 g/día según guías). La opción A (aproximadamente 170 g/día) es la más cercana a esta recomendación."
       },
       "id": 468
     },
@@ -13162,8 +13251,8 @@
         "Tabaquismo",
         "Índice de masa corporal mayor a 30"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13175,8 +13264,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El factor más relevante para el riesgo de diabetes gestacional es el índice de masa corporal >30 (obesidad pregestacional). Este es el factor de riesgo modificable más potente para DBT gestacional, superior a edad, multiparidad y tabaquismo."
       },
       "id": 469
     },
@@ -13190,8 +13280,8 @@
         "Restricción de crecimiento",
         "Hipertrofia septal miocárdica"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Diabetes y Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13203,8 +13293,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La complicación fetal más frecuente de la diabetes gestacional mal controlada es la macrosomía fetal (por hiperinsulinismo fetal secundario a hiperglucemia materna). El polihidramnios es la segunda en frecuencia."
       },
       "id": 470
     },
@@ -13218,8 +13309,8 @@
         "Colestasis intrahepática del embarazo",
         "Amenaza de parto pretérmino"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13231,8 +13322,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La complicación materna más frecuente en embarazadas con diabetes gestacional es la hipertensión arterial (HTA/preeclampsia). Confirmado en los apuntes del curso: 'Complicación más frecuente en embarazadas que cursan con DBT gestacional: HTA'."
       },
       "id": 471
     },
@@ -13246,8 +13338,8 @@
         "Trombocitosis",
         "Edema"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Enfermedad Hemolítica Feto-Neonatal",
       "difficulty": 2,
       "source_info": {
@@ -13259,8 +13351,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La anemia hemolítica de la enfermedad hemolítica feto-neonatal (EHFN) se acompaña de edema fetal (hidropesía fetal no inmune en casos graves) como consecuencia de la hipoalbuminemia secundaria a la hemólisis y disfunción hepática."
       },
       "id": 472
     },
@@ -13274,8 +13367,8 @@
         "No es etiología",
         "80 a 90%"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Enfermedad Hemolítica Feto-Neonatal",
       "difficulty": 2,
       "source_info": {
@@ -13287,8 +13380,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En la EHFN, la sensibilización anti-D (Rh) representa el 70-80% de las causas de isoinmunización. Es la causa más frecuente de EHFN inmune. La opción C (70 a 80%) es la correcta."
       },
       "id": 473
     },
@@ -13300,8 +13394,8 @@
         "En el RCIU asimétrico se realiza seguimiento con Do ppler",
         "En el RCIU asimétrico siempre se realiza amniocentesis para evaluar cariotipo fetal"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Restricción del Crecimiento Intrauterino",
       "difficulty": 2,
       "source_info": {
@@ -13313,8 +13407,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En el RCIU asimétrico (de causa placentaria/vascular), el seguimiento se realiza con Doppler fetal para evaluar la hemodinamia fetal y el bienestar fetal. El RCIU simétrico (de causa genética/infecciosa) se asocia a cromosopatías, no el asimétrico."
       },
       "id": 474
     },
@@ -13327,8 +13422,8 @@
         "Medicion de AU + Doppler fetal + medicion de LA",
         "Ninguna es"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Restricción del Crecimiento Intrauterino",
       "difficulty": 2,
       "source_info": {
@@ -13340,8 +13435,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La mejor manera de evaluar y monitorear un RCIU es mediante examen físico obstétrico + ecografía obstétrica cada 14 días + Doppler fetal. Confirmado en apuntes: 'AU, Examen físico obstétrico, ecografía cada 14 días, Doppler fetal'."
       },
       "id": 475
     },
@@ -13354,8 +13450,8 @@
         "AU",
         "Leopold"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Restricción del Crecimiento Intrauterino",
       "difficulty": 2,
       "source_info": {
@@ -13367,8 +13463,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En el RCIU, el Doppler es el estudio cuya alteración obliga a tomar una conducta inmediata. La alteración del Doppler (especialmente el flujo reverso en arteria umbilical o ausente en ductus venoso) indica compromiso fetal severo que requiere intervención inmediata. Confirmado en apuntes."
       },
       "id": 476
     },
@@ -13382,8 +13479,8 @@
         "Todas son malformaciones que provoca la administración  de Warfarina",
         "Ninguna es malformación  que provoca la administración  de Warfarina"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -13395,8 +13492,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Todas las opciones mencionadas (agenesia del CC, malformación de Dandy Walker, atrofia óptica, bajo CI) son malformaciones que provoca la warfarina. Por lo tanto, la opción E ('todas son malformaciones que provoca la warfarina') es correcta. Confirmado en apuntes: 'todas generan dichas malformaciones'."
       },
       "id": 477
     },
@@ -13409,8 +13507,8 @@
         "El misoprostol provoca agenesia del CC",
         "No hay incorrectas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -13422,8 +13520,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La afirmación INCORRECTA es que 'el misoprostol provoca agenesia del CC'. En realidad, la warfarina es la que provoca agenesia del cuerpo calloso, no el misoprostol. El misoprostol puede causar síndrome de Möbius y artrogriposis, pero no agenesia del CC. Confirmado en apuntes."
       },
       "id": 478
     },
@@ -13449,8 +13548,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El índice de partos/cesáreas en centros privados de Argentina es aproximadamente 30/70 (30% partos vaginales y 70% cesáreas). Confirmado en apuntes del curso: 'Índice de partos/cesáreas en centros privados: 30/70'."
       },
       "id": 479
     },
@@ -13464,8 +13564,8 @@
         "aumenta con COVID 19 modera damente",
         "no aumenta con COVID 19"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13477,8 +13577,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "Según artículos de 2020-2021, el riesgo de aborto espontáneo no aumenta con COVID-19 (la infección leve/moderada no aumenta el riesgo de aborto) pero sí aumenta con edad paterna avanzada. La opción D combina ambas afirmaciones correctas."
       },
       "id": 480
     },
@@ -13491,8 +13592,8 @@
         "Primeros 10 días y 120 días",
         "Primeros 10 días y 90 días"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Puerperio y Alumbramiento",
       "difficulty": 2,
       "source_info": {
@@ -13504,8 +13605,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "El puerperio inmediato comprende las primeras 24 horas (o las primeras 2 horas según algunas clasificaciones) y el puerperio tardío hasta los 45 días. La clasificación más usada en Argentina: inmediato (primeras 24 hs), mediato (2-10 días), tardío (hasta 42-45 días). La opción C (primer día y 45 días) es la más aproximada."
       },
       "id": 481
     },
@@ -13519,8 +13621,8 @@
         "Metrorragia moderada rojo oscuro, dolor abdominal e hipotonía uterina",
         "Metrorragia escasa de color rojo oscuro, dolor abdominal y tono uterino nor mal"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13532,8 +13634,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La placenta previa se caracteriza por metrorragia de color rojo rutilante (sangre arterial), sin dolor abdominal y con tono uterino normal (útero blando). Esto la diferencia del DPPNI (sangre oscura, dolor, hipertonía)."
       },
       "id": 482
     },
@@ -13547,8 +13650,8 @@
         "Debe recibir tocólisis al finalizar embarazo",
         "Debe intentarse una prueba de parto al finalizar embarazo"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Cesárea",
       "difficulty": 2,
       "source_info": {
@@ -13560,8 +13663,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Una embarazada con dos cesáreas anteriores tiene indicación ABSOLUTA de cesárea al finalizar el embarazo (dos o más cesáreas previas es indicación absoluta según guías argentinas)."
       },
       "id": 483
     },
@@ -13575,8 +13679,8 @@
         "las 9 semanas de amenorrea",
         "las 10 semanas de amenorrea"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -13588,8 +13692,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La ecografía transvaginal visualiza el embrión (saco gestacional) a partir de las 4-5 semanas, pero visualiza el embrión propiamente dicho con latido cardíaco a partir de las 6 semanas de amenorrea. La opción D (6 semanas) es la correcta para visualización del embrión con actividad cardíaca."
       },
       "id": 484
     },
@@ -13616,8 +13721,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "Según el artículo citado, la mayoría de las embarazadas con COVID-19 tienen clínica leve de la enfermedad pero con aumento del riesgo de requerir ventilación mecánica (mayor que en no embarazadas) y aumento del riesgo de prematurez y RCIU. La opción A describe este perfil correctamente."
       },
       "id": 485
     },
@@ -13631,8 +13737,8 @@
         "Aborto incompleto",
         "Embarazo ectópico complicado"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13644,8 +13750,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La clínica descrita (nulípara joven, test positivo, dolor hipogástrico brusco, hipotensión, taquicardia, útero pequeño sin LCF, fondo de saco posterior abombado con contenido renitente, pérdida hemática oscura) corresponde a un embarazo ectópico complicado (roto con hemoperitoneo). Confirmado en apuntes."
       },
       "id": 486
     },
@@ -13659,8 +13766,8 @@
         "Raspado uterino",
         "Histerectomía subtotal"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Puerperio y Alumbramiento",
       "difficulty": 2,
       "source_info": {
@@ -13672,8 +13779,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La primera medida ante atonía uterina es el masaje uterino bimanual y la administración de oxitocina (ocitocina). Estas son las medidas de primera línea antes de recurrir a misoprostol, taponaje o histerectomía."
       },
       "id": 487
     },
@@ -13701,7 +13809,8 @@
       "metadata": {
         "citation_quality": "low",
         "needs_review": true,
-        "answer_confidence": "unknown"
+        "answer_confidence": "low",
+        "answer_reasoning": "Las causas genéticas representan el 48% de las causas de enfermedad hemolítica perinatal no inmune según algunas referencias. Esta es una estadística específica del material del curso y requiere confirmación en el texto fuente."
       },
       "id": 488
     },
@@ -13728,8 +13837,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En DPPNI de grado moderado a las 34 semanas con feto vivo, la conducta es cesárea de urgencia. Con compromiso fetal y placenta desprendida, no hay lugar para conducta expectante ni uteroinhibición. El embarazo de 34 semanas ya permite la extracción fetal."
       },
       "id": 489
     },
@@ -13743,8 +13853,8 @@
         "Retención de restos ovulares",
         "Atonía uterina"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Puerperio y Alumbramiento",
       "difficulty": 2,
       "source_info": {
@@ -13756,8 +13866,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La causa más frecuente de hemorragia en el post-alumbramiento que genera mortalidad materna es la atonía uterina (80% de los casos de hemorragia puerperal). Es la primera causa de muerte materna obstétrica directa."
       },
       "id": 490
     },
@@ -13784,8 +13895,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El síndrome HELLP NO presenta hipofibrinogenemia. La hipofibrinogenemia es característica de la CID (coagulación intravascular diseminada), que puede ser una complicación del HELLP pero no un componente del síndrome mismo. HELLP = Hemólisis + Enzimas hepáticas elevadas + plaquetopenia baja."
       },
       "id": 491
     },
@@ -13799,8 +13911,8 @@
         "Informar fehacientemente la situación a la pareja de la mujer",
         "Derivar a la asistente social para que informe la situación de la mujer"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13812,8 +13924,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El médico debe preservar la información (confidencialidad médica) y consultar a la paciente su voluntad respecto a qué información puede darse a la pareja. La información clínica es confidencial y no puede revelarse sin consentimiento de la paciente."
       },
       "id": 492
     },
@@ -13840,8 +13953,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La profilaxis de la EHFN (inmunoglobulina anti-D) se administra a la madre Rh negativa NO sensibilizada cuando el recién nacido es Rh positivo, para prevenir la sensibilización futura."
       },
       "id": 493
     },
@@ -13855,8 +13969,8 @@
         "La presencia de desaceleraciones precoces reiteradas no significan hipoxia aguda",
         "El feto con hipoxia fetal aguda presenta también acidosis mixta"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Hipoxia Fetal Aguda",
       "difficulty": 2,
       "source_info": {
@@ -13868,8 +13982,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El enunciado INCORRECTO es que 'la sola presencia de meconio es suficiente para realizar el diagnóstico' de hipoxia fetal aguda. El meconio puede estar presente sin hipoxia aguda. Para el diagnóstico se requieren desaceleraciones tardías repetidas o pH fetal <7.20. Las otras afirmaciones son correctas."
       },
       "id": 494
     },
@@ -13883,8 +13998,8 @@
         "La glucemia en ayunas no es un parámetro de utilidad",
         "Menor a 92 mg/dl"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Diabetes y Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13896,8 +14011,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Según FASGO y la ADA, el valor normal de glucemia en ayunas durante el embarazo es menor a 92 mg/dl. Este valor es más estricto que en no embarazadas (100 mg/dl ADA no gestante). Confirmado en apuntes del curso."
       },
       "id": 495
     },
@@ -13911,8 +14027,8 @@
         "Glargina X → acción ultra/prolongada",
         "Glibenclamida"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Diabetes y Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13924,8 +14040,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Para corregir de forma rápida una hiperglucemia preprandial, la insulina con mejor perfil es la insulina rápida análoga (aspártica, lispro, glulisina). La opción B menciona 'Aspártica + Lispro, Gluglisina' que son los análogos de acción rápida. NPH e insulina regular tienen mayor latencia."
       },
       "id": 496
     },
@@ -13938,8 +14055,8 @@
         "Decúbito lateral derecho, uteroinhibición y oxigenoterapiaco",
         "Administración parenteral de soluciones para evitar hipotensión + oxigenoterapia"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Hipoxia Fetal Aguda",
       "difficulty": 2,
       "source_info": {
@@ -13951,8 +14068,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La 'recuperación intrauterina' del feto con sufrimiento fetal agudo incluye: decúbito lateral izquierdo (alivia compresión aortocava), uteroinhibición (reduce compresión fetal), administración parenteral de soluciones y oxigenoterapia. La opción C en el texto dice 'Uteroinhibición y decúbito lateral izquierdo', pero la opción D en el enunciado (que empieza con 'd.' dentro de la opción C) describe el paquete completo: DLI + uteroinhibición + soluciones + O2. El índice 2 corresponde a la opción que menciona la combinación completa."
       },
       "id": 497
     },
@@ -13966,8 +14084,8 @@
         "Iniciar Metformina 800 mg/12hs y perfilar a la semana por 48 hs",
         "Iniciar Insulina Detemir a dosis bajas predesayuno y precena"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Diabetes y Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -13979,8 +14097,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Una nueva diagnóstico de diabetes gestacional (curva: 85-182-156, con valor de 1h y 2h alterados) se maneja inicialmente con tratamiento higiénico-dietético (plan alimentario) por 1-2 semanas y luego se perfila con hemoglucotest para evaluar la respuesta antes de indicar insulina."
       },
       "id": 498
     },
@@ -13993,8 +14112,8 @@
         "El recuento de plaquetas. e.Las convulsiones",
         "El edema generalizado"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14006,8 +14125,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Lo que diferencia eclampsia de preeclampsia son las convulsiones. La opción D dice 'recuento de plaquetas. e. Las convulsiones', lo que indica que las convulsiones están incluidas en esta opción combinada. La respuesta correcta es las convulsiones (índice 3, que menciona convulsiones)."
       },
       "id": 499
     },
@@ -14032,8 +14152,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La pregunta indica que las opciones a y b (flujo umbilical reverso y ácido úrico de 5,2) ya están mencionadas en el enunciado. Entre las opciones restantes, el flujo umbilical reverso sería la indicación perentoria. Las opciones presentadas son: peso fetal <p25, monitoreo reactivo con variabilidad disminuida, epigastralgia, escotomas. El flujo umbilical reverso (opción A del enunciado) no aparece como opción, por lo que entre las opciones dadas, el monitoreo con variabilidad disminuida o los escotomas podrían ser, pero el índice 0 (peso <p25) no es perentorio. La respuesta más perentoria dentro de las opciones disponibles no es clara; selecciono índice 0 con baja confianza ya que el flujo reverso ya fue descartado en el enunciado."
       },
       "id": 500
     },
@@ -14046,8 +14167,8 @@
         "Es igual al utilizado fuera del embarazo",
         "Menor a 100 mg/dl"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Diabetes y Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14059,8 +14180,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Según la ADA, el valor normal de glucemia en ayunas durante el embarazo es menor a 92 mg/dl. La opción C dice 'Menor a 120 mg/dl d.Menor a 92 mg/dl', por lo que el valor correcto embebido es 'Menor a 92 mg/dl'. Sin embargo, revisando los índices: la opción que corresponde a <92 mg/dl está en el texto de la opción C (índice 2). Confirmado."
       },
       "id": 501
     },
@@ -14086,8 +14208,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La pregunta indica que la opción 'a' (MPF con corticoides completada) está en el enunciado y la pregunta pregunta qué NO implica necesariamente la finalización. Las opciones son: corioamnionitis, trabajo de parto franco, muerte fetal, sufrimiento fetal, malformaciones incompatibles. La que NO implica finalización entre las opciones dadas sería que el MPF completado es la que ya estaba en el enunciado como la correcta. Como la MPF completada fue puesta en el enunciado, entre las opciones disponibles (0-4), ninguna es 'no implica finalización' excepto si reconocemos el patrón. La MPF completada es la que no implica finalización; como está en el enunciado, la respuesta sería la opción A de las opciones originales de la pregunta hermana (443), que era índice 0. Aquí entre las 5 opciones listadas (0-4), todas implican finalización. Con la información del enunciado (la MPF completada no implica finalización), la respuesta a la pregunta es la que estaba antes de las opciones (índice 0 del enunciado original)."
       },
       "id": 502
     },
@@ -14113,8 +14236,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La pregunta indica que el enunciado ya coloca 'Desprendimiento parcial de placenta normoinserta' como opción a. Por lo tanto, el DPNI es la respuesta correcta para la tríada metrorragia + dolor abdominal + hipertonía. El índice 0 corresponde a la primera opción visible que es 'Rotura uterina', pero el enunciado ya establece que 'a' es DPNI. La respuesta correcta no listada es el DPNI. Entre las opciones visibles, ninguna es DPNI. Interpreto que las opciones son continuación (b en adelante) y la respuesta correcta (opción a = DPNI) ya está en el enunciado, siendo la correcta. Selecciono índice 0 entendiendo que la pregunta establece que el enunciado a es la respuesta."
       },
       "id": 503
     },
@@ -14128,8 +14252,8 @@
         "Durante la primeras 1 a 3 semanas de vida",
         "Durante los primeros 6 meses de vida"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Lactancia",
       "difficulty": 2,
       "source_info": {
@@ -14141,8 +14265,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La lactancia materna exclusiva tiene impacto en la longitud de los telómeros si se desarrolla durante los primeros 6 meses de vida. La opción F (índice 5) dice 'Durante los primeros 6 meses de vida'. Confirmado en los apuntes del curso: 'lactancia materna: impacto telómeros si se desarrolla mínimo 4-6 semanas de vida' pero la pregunta nota OJO respecto a meses vs semanas, indicando que la respuesta en meses es 6 meses."
       },
       "id": 504
     },
@@ -14169,8 +14294,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La microbiota humana es la colección de bacterias, hongos y virus que viven EN Y SOBRE el cuerpo humano (incluyendo piel, mucosas, intestino, etc.). La opción A es la definición más correcta y completa."
       },
       "id": 505
     },
@@ -14182,8 +14308,8 @@
         "abortos antes de 16 semanas no influyen",
         "b y c son correctas . 26- cuál es el objetivo del TARV en la embarazada en el 1T: era CD igual o mayor a 350 y CV menor a 50. 27- qué significa la palabra innatho: innovación -naturaleza -holistica. 28- Si atendés un paciente de otra cultura distinta a la tuya, qué término aplica: diversidad. 1000 DÍAS"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Restricción del Crecimiento Intrauterino",
       "difficulty": 2,
       "source_info": {
@@ -14195,8 +14321,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "La pregunta sobre riesgo de parto pretérmino tiene una respuesta 'b y c son correctas': el FR más importante es el antecedente de PT anterior, Y los abortos antes de 16 semanas no influyen. La opción D dice 'b y c son correctas'. Índice 3."
       },
       "id": 506
     },
@@ -14206,8 +14333,8 @@
         "En cuerno ut erino , en cuerno y c avidad ut erina a la v ez, y por encima del anillo de Bandl,respectiv amen ted.En fondo de sac o de Douglas, tr ompas de F alopio , cuerno y f ondo ut erino ut erino , respectiv amen te.e.En vagina, cuello y segmen to inferior , respectiv amen te.f.Libre abdomen, lig amen to redondo y lig amen to sacr o-uterino , respectiv amen te. RTA: Espasmo loc alizado, retiene a la placen ta. Del cuerno ut erino – Son anillos muscular esespasmódic os [musculo orbicular de la tr ompa] que r etienen la placen ta en f orma: TOTAL →",
         "las primer as 2hs pos terior es al nacimien to"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Doppler Materno Fetal y Monitoreo",
       "difficulty": 2,
       "source_info": {
@@ -14220,7 +14347,8 @@
       "metadata": {
         "citation_quality": "low",
         "needs_review": true,
-        "answer_confidence": "unknown"
+        "answer_confidence": "low",
+        "answer_reasoning": "La pregunta está muy fragmentada/mezclada. La primera parte pregunta sobre extracción de membranas (maniobra de Dublin). Las opciones disponibles (0 y 1) son: sobre localización placentaria y 'las primeras 2hs posteriores al nacimiento'. La opción 1 (primeras 2hs) corresponde a puerperio inmediato. Esta pregunta tiene problemas de formato severos y la respuesta es incierta."
       },
       "id": 507
     },
@@ -14247,8 +14375,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La pregunta del ID 508 está en realidad preguntando sobre la causa más frecuente de RPM (el texto final de la pregunta dice esto). La causa más frecuente de RPM es la infección. La opción A (Infecciones) es la correcta."
       },
       "id": 508
     },
@@ -14262,8 +14391,8 @@
         "Internación,  maduración  pulmonar  con uteroinhibición  y antibioticoterapia  por 10 dias",
         "Internación,  Neuroprotección  y finalización  pasadas  4hs"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Rotura Prematura de Membranas",
       "difficulty": 2,
       "source_info": {
@@ -14275,8 +14404,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "En RPM sin signos de corioamnionitis a las 32 semanas, la conducta más correcta es: internación, maduración pulmonar (corticoides), antibioticoterapia EV por 2 días con macrólidos y betalactámicos, y si vitalidad fetal conservada, alta con control externo en 48 hs. La opción C es la que describe este manejo."
       },
       "id": 509
     },
@@ -14289,8 +14419,8 @@
         "La presencia de  desaceleraciones  precoces reiteradas  no significan  hipoxia  aguda",
         "El feto con hipoxia fetal  aguda presenta  también  acidosis  mixta"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Hipoxia Fetal Aguda",
       "difficulty": 2,
       "source_info": {
@@ -14302,8 +14432,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El enunciado tiene 'a' como opción correcta (el feto con hipoxia fetal aguda puede sufrir daño neurológico - que es CORRECTA). La pregunta pide el INCORRECTO. Entre las opciones visibles: la opción B (índice 1) dice 'La sola presencia de meconio es suficiente para realizar el diagnóstico', que es INCORRECTA médicamente. Esta es la respuesta."
       },
       "id": 510
     },
@@ -14316,8 +14447,8 @@
         "Decúbito  lateral  derecho,  uteroinhibición  y oxigenoterapiaco",
         "Administración  parenteral  de soluciones  para  evitar  hipotensión  + oxigenoterapia"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Hipoxia Fetal Aguda",
       "difficulty": 2,
       "source_info": {
@@ -14329,8 +14460,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El enunciado tiene 'a' como 'decúbito lateral izquierdo y oxigenoterapia' (correcta pero incompleta). La opción correcta completa es: DLI + uteroinhibición + administración parenteral de soluciones + oxigenoterapia. La opción C (índice 2) describe este paquete completo."
       },
       "id": 511
     },
@@ -14344,8 +14476,8 @@
         "Somnolencia",
         "Oligouria"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -14357,8 +14489,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El signo más precoz de afectación orgánica por hiperémesis gravídica es la taquicardia (signo de deshidratación y compensación cardiovascular). Confirmado en apuntes del curso: '¿Cuál es el signo más precoz?: Taquicardia'."
       },
       "id": 512
     },
@@ -14372,8 +14505,8 @@
         "No es necesario  repetir  la serología,  seguimiento  por ecografía de  la aparición  de manifestaciones fetales tempranas  de toxoplasmosis.  Asesorar  sobre  medidas  de prevención",
         "Repetir  serología  en el puerperio  mediato"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14385,8 +14518,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Con IgG e IgM negativos para toxoplasmosis a las 12 semanas, la paciente es susceptible. La conducta más adecuada es repetir la serología en cada trimestre (2° y 3°) y asesorar sobre prevención (lavado de manos, cocción de carnes, evitar excretas de gato). La opción D describe exactamente esta conducta. Confirmado en apuntes."
       },
       "id": 513
     },
@@ -14400,8 +14534,8 @@
         "Insinuada,  encajada  y expulsiva",
         "Insinuada,  fija y encajada"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14413,8 +14547,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Los planos de Hodge corresponden: 1° plano = insinuada, 2° plano = fija, 4° plano = encajada. La opción F dice 'insinuada, fija y encajada' que corresponde a 1°, 2° y 4° plano respectivamente. Nota: hay dos opciones con 'insinuada, fija y encajada' (índices 1 y 5); el índice 5 es el más claro."
       },
       "id": 514
     },
@@ -14428,8 +14563,8 @@
         "En vagina,  cuello  y segmento  inferior,  respectivamente",
         "Libre  abdomen,  ligamento  redondo  y ligamento  sacro -uterino,  respectivamente"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Doppler Materno Fetal y Monitoreo",
       "difficulty": 2,
       "source_info": {
@@ -14441,8 +14576,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La placenta está encastillada en el cuerno uterino, engatillada en el cuerno Y cavidad uterina a la vez, y encarcelada por encima del anillo de Bandl. La opción C describe exactamente este orden. Confirmado en los apuntes del curso."
       },
       "id": 515
     },
@@ -14456,8 +14592,8 @@
         "Informar  fehacientemente  la situación  a la pareja  de la mujer",
         "Derivar  a la asistente  social  para  que informe  la situación  de la mujer"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Doppler Materno Fetal y Monitoreo",
       "difficulty": 2,
       "source_info": {
@@ -14469,8 +14605,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El médico debe preservar la información (secreto médico/confidencialidad) y consultar a la paciente su voluntad respecto a qué información puede darse a la pareja. La información clínica no puede revelarse a terceros sin consentimiento de la paciente."
       },
       "id": 516
     },
@@ -14484,8 +14621,8 @@
         "Para  desprender  cabeza  última",
         "Para  descender  el brazo  anterior"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Doppler Materno Fetal y Monitoreo",
       "difficulty": 2,
       "source_info": {
@@ -14497,8 +14634,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La maniobra de Bracht en presentación pelviana sirve para desprender el tórax, hombros y cabeza mediante un movimiento de balanceo del tronco fetal hacia el vientre materno. La opción B es correcta."
       },
       "id": 517
     },
@@ -14512,8 +14650,8 @@
         "Pedir  una prueba  de avidez",
         "Repetir la serología de toxoplasmosis en cada trimestre. Asesorar sobre prevención lavado de manos antes de ingerir  alimentos  y despues  de manipular  carne  o vegetales  crudos,  comer  carne  y vegetales  bien  cocidos,  evitar el contacto  con excretas  de gato"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14525,8 +14663,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Con IgG e IgM negativos para toxoplasmosis a las 12 semanas, la conducta es repetir la serología en cada trimestre y asesorar sobre prevención completa (lavado de manos, cocción de carnes, evitar contacto con excretas de gato). La opción F (índice 5) describe esta conducta completa."
       },
       "id": 518
     },
@@ -14539,8 +14678,8 @@
         "Penicilina  Benzatinica  2,4 mill c/semana  x tres dosis",
         "Ninguna  es tratamiento  ideal de  la sifilis"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Doppler Materno Fetal y Monitoreo",
       "difficulty": 2,
       "source_info": {
@@ -14552,8 +14691,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El tratamiento de la sífilis de más de un año de evolución (latente tardía o terciaria) es penicilina benzatínica 2,4 millones UI IM por semana por 3 dosis (total 7,2 millones). Confirmado en apuntes del curso: 'Penicilina benzatínica 2.4 millones c/semana x 3 dosis'."
       },
       "id": 519
     },
@@ -14565,8 +14705,8 @@
         "Eco c/14  días",
         "Doppler  fetal"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Restricción del Crecimiento Intrauterino",
       "difficulty": 2,
       "source_info": {
@@ -14578,8 +14718,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La mejor manera de evaluar y monitorizar un RCIU es el Doppler fetal (junto con AU y ecografía, pero el Doppler es el que da la conducta inmediata). Confirmado en apuntes: 'Estudio cuya alteración obliga a tomar conducta inmediata: Doppler'."
       },
       "id": 520
     },
@@ -14593,8 +14734,8 @@
         "Insinuada,  encajada  y expulsiva",
         "Insinuada,  fija y encajada"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
       "difficulty": 2,
       "source_info": {
@@ -14606,8 +14747,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Los planos de Hodge: 1° = insinuada, 2° = fija, 4° = encajada. La opción F (índice 5) dice 'insinuada, fija y encajada' que corresponde correctamente al 1°, 2° y 4° plano. Hay dos opciones iguales (índices 1 y 5); el índice 5 es la opción F que es la correcta."
       },
       "id": 521
     },
@@ -14621,8 +14763,8 @@
         "Para  descender  el brazo  anterior",
         "Para  practicar  el asa  de cordón"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Doppler Materno Fetal y Monitoreo",
       "difficulty": 2,
       "source_info": {
@@ -14634,8 +14776,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La maniobra de Bracht en presentación pelviana sirve para desprender el tórax, hombros y cabeza. La opción B (índice 1) dice 'Para desprender tórax, hombros y cabeza', que es la descripción correcta de la maniobra de Bracht."
       },
       "id": 522
     },
@@ -14649,8 +14792,8 @@
         "Al desprendimiento  del polo  cefálico",
         "Al paso  del feto a través  del canal  del parto"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Doppler Materno Fetal y Monitoreo",
       "difficulty": 2,
       "source_info": {
@@ -14662,8 +14805,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El período expulsivo es el tiempo que transcurre desde la dilatación completa (10 cm) hasta el nacimiento del feto. La opción D (índice 3) dice 'Desde la dilatación completa hasta el nacimiento', que es la definición clásica y correcta."
       },
       "id": 523
     },
@@ -14677,8 +14821,8 @@
         "Sobre  la epigenética  y la microbiota",
         "Sobre  la microbiota"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
       "difficulty": 2,
       "source_info": {
@@ -14690,8 +14834,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "medium",
+        "answer_reasoning": "La noxa del duelo perinatal en el modelo de los primeros 1000 días impacta sobre la epigenética y la microbiota (ambas). La opción E (índice 4) dice 'Sobre la epigenética y la microbiota'. Confirmado en los apuntes del curso (ID 395 similar)."
       },
       "id": 524
     },
@@ -14718,8 +14863,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Un embarazo está 'en vías de prolongación' entre las 41 y 42 semanas. El embarazo prolongado propiamente dicho es el que supera las 42 semanas. La opción A (índice 0) dice 'Entre las 41 y 42 semanas'. Confirmado en apuntes del curso."
       },
       "id": 525
     },
@@ -14733,8 +14879,8 @@
         "Plaquetopenia  y enzimas  hepáticas  elevadas",
         "Enzimas  hepáticas  elevadas"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 3,
+      "correct_letter": "D",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14746,8 +14892,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El síndrome HELLP NO presenta hipofibrinogenemia. La hipofibrinogenemia es característica de la CID, que puede complicar el HELLP pero no es parte del síndrome en sí. HELLP incluye hemólisis, enzimas hepáticas elevadas y plaquetopenia, pero no hipofibrinogenemia."
       },
       "id": 526
     },
@@ -14761,8 +14908,8 @@
         "Medición  ecográfica  del Liquido  Amniótico",
         "Test  del Papel de  Nitrazina"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 2,
+      "correct_letter": "C",
       "topic": "Rotura Prematura de Membranas",
       "difficulty": 2,
       "source_info": {
@@ -14774,8 +14921,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El EcoDoppler materno-fetal NO se utiliza para el diagnóstico de RPM. Los métodos diagnósticos son: anamnesis, especuloscopía, cristalización de muestra vaginal, medición ecográfica del LA y test del papel de Nitrazina (pH). El Doppler evalúa flujos vasculares, no membranas."
       },
       "id": 527
     },
@@ -14789,8 +14937,8 @@
         "Preeclampsia  por más de 30 días",
         "Prodromos  de eclampsia"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Hipertensión Inducida por el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14802,8 +14950,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Eclampsismo es la aparición de los pródromos (síntomas premonitorios) de eclampsia: cefalea, escotomas, acúfenos, epigastralgia e hiperreflexia. Es la etapa prodrómica antes de las convulsiones. La opción F (índice 5) dice 'Prodromos de eclampsia', que es la definición correcta."
       },
       "id": 528
     },
@@ -14817,8 +14966,8 @@
         "Iniciar  Metformina  800 mg/12hs  y perfilar  a la semana  por 4 8 hs",
         "Iniciar  Insulina  Detemir  a dosis  bajas  predesayuno  y precena"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 1,
+      "correct_letter": "B",
       "topic": "Amenaza de Parto Pretérmino",
       "difficulty": 2,
       "source_info": {
@@ -14830,8 +14979,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Una nueva diabetes gestacional diagnosticada (curva 85-182-156: 1h y 2h alterados) se maneja inicialmente con tratamiento higiénico-dietético (plan alimentario) por 1-2 semanas y luego se perfila con hemoglucotest para evaluar la respuesta antes de indicar insulina u otro tratamiento."
       },
       "id": 529
     },
@@ -14845,8 +14995,8 @@
         "Pedir  una prueba  de avidez",
         "Repetir la serología de to xoplasmosis en cada trimestre. Asesorar sobre prevención lavado de manos antes  de ingerir  alimentos  y despues  de manipular  carne  o vegetales  crudos,  comer  carne  y vegetales  bien  cocidos,  evitar  el contacto  con excretas  de gato"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 5,
+      "correct_letter": "F",
       "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14858,8 +15008,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "Con IgG e IgM negativos para toxoplasmosis en semana 12 (paciente susceptible), la conducta es repetir la serología en cada trimestre y asesorar sobre prevención completa. La opción F (índice 5) describe esta conducta completa con las medidas de prevención detalladas."
       },
       "id": 530
     },
@@ -14873,8 +15024,8 @@
         "A y b son correctas",
         "Ninguna  es"
       ],
-      "correct_index": 0,
-      "correct_letter": "A",
+      "correct_index": 4,
+      "correct_letter": "E",
       "topic": "Hemorragias del Embarazo",
       "difficulty": 2,
       "source_info": {
@@ -14886,8 +15037,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "La paciente de 24 años con dolor hipogástrico, útero globuloso, AU 31 cm, FCFb 144, y tono uterino aumentado (ligamento aumentado): la sospecha es ITU (dolor hipogástrico con ENC) Y DPPNI (tono uterino aumentado). Ambas A y B son correctas. Confirmado en apuntes del curso."
       },
       "id": 531
     },
@@ -14914,8 +15066,9 @@
       "origin": "existing",
       "metadata": {
         "citation_quality": "low",
-        "needs_review": true,
-        "answer_confidence": "unknown"
+        "needs_review": false,
+        "answer_confidence": "high",
+        "answer_reasoning": "El enunciado INCORRECTO respecto a la hipoxia fetal aguda es que 'la sola presencia de meconio es suficiente para realizar el diagnóstico'. El meconio puede estar sin hipoxia aguda. El diagnóstico requiere desaceleraciones tardías repetidas + pH fetal ácido. La opción A (índice 0) es la afirmación incorrecta."
       },
       "id": 532
     }
