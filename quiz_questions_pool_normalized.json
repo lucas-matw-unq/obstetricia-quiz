@@ -1,33 +1,33 @@
 {
   "metadata": {
-    "total_questions": 539,
+    "total_questions": 547,
     "topics": {
       "Cesárea": 26,
       "Fórceps": 20,
       "Cardiopatías y Embarazo": 27,
       "Ecografía 2do y 3er Trimestre": 36,
       "Hemorragia Puerperal": 21,
-      "Hipoxia Fetal Aguda": 34,
-      "Trabajo de Parto y Parto": 21,
+      "Hipoxia Fetal Aguda": 35,
+      "Trabajo de Parto y Parto": 22,
       "IVE/ILE": 3,
-      "Diagnóstico de Embarazo y Semiología Obstétrica": 20,
-      "Hipertensión Inducida por el Embarazo": 33,
-      "Modificaciones Gravídicas, Nutrición y Emesis": 66,
-      "Control Prenatal": 51,
+      "Diagnóstico de Embarazo y Semiología Obstétrica": 21,
+      "Hipertensión Inducida por el Embarazo": 34,
+      "Modificaciones Gravídicas, Nutrición y Emesis": 67,
+      "Control Prenatal": 53,
       "Infecciones en el Embarazo": 21,
       "Diabetes y Embarazo": 11,
-      "Amenaza de Parto Pretérmino": 18,
-      "Hemorragias del Embarazo": 28,
+      "Amenaza de Parto Pretérmino": 19,
+      "Hemorragias del Embarazo": 29,
       "Anemia": 6,
       "Medicina Materno Fetal": 4,
       "Screening y Ecografía 1er Trimestre": 3,
-      "Colestasis Intrahepática Gestacional": 5,
+      "Colestasis Intrahepática Gestacional": 6,
       "Rotura Prematura de Membranas": 14,
       "Restricción del Crecimiento Intrauterino": 14,
       "Líquido Amniótico": 7,
-      "Lactancia": 7,
-      "Puerperio y Alumbramiento": 12,
-      "Doppler Materno Fetal y Monitoreo": 11,
+      "Lactancia": 8,
+      "Puerperio y Alumbramiento": 13,
+      "Doppler Materno Fetal y Monitoreo": 14,
       "Control Preconcepcional": 2,
       "Trombofilias": 2,
       "Embarazo Gemelar": 2,
@@ -35,21 +35,43 @@
     },
     "difficulty_distribution": {
       "1": 100,
-      "2": 378,
+      "2": 393,
       "3": 46,
       "4": 4,
       "5": 4
     },
     "sources": [
-      "choices_1_300",
-      "choices_301_600",
-      "choices_601_916",
-      "diapos",
-      "images_apunte",
-      "final_oct_2024",
-      "final_dic_2024",
-      "parcial_jun_2025",
-      "parcial_5rot_ago_2024"
+      "Source: apunte (Infecciones en el embarazo)",
+      "Cardiopatías y Embarazo - Dr. Messina",
+      "Ecografía 2T y 3T - Dra. Yabarra",
+      "Apunte Sol Modificado - Líquido Amniótico",
+      "Apunte Sol Modificado - Colestasis Intrahepática Gestacional",
+      "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+      "Apunte Sol Modificado - Hemorragias / RCIU",
+      "Apunte Sol Modificado",
+      "Apunte Sol Modificado - RPM",
+      "Cesárea - Dra. Cepeda",
+      "Apunte Sol Modificado - Trabajo de Parto",
+      "Compilado choices Obstetricia",
+      "Final Obstetricia - Octubre 2024",
+      "Apunte Sol Modificado - RCIU / Doppler",
+      "Examen Parcial 5° Rotación 22/8/2024",
+      "Apunte Sol Modificado - Amenaza de Parto Pretérmino / Prevención",
+      "Apunte Sol Modificado.pdf",
+      "Apunte Sol (Hospital de Clínicas)",
+      "Diapos extras (Docentes)",
+      "Medicina Materno-Fetal",
+      "Apunte Sol Modificado - RCIU",
+      "Apunte Sol Modificado - Lactancia Materna",
+      "Hemorragia Puerperal - Dr. Etchepareborda",
+      "Cardiopatías y Embarazo - Messina",
+      "Final Obstetricia 11-12-2024",
+      "Hipoxia Fetal Aguda - Dr. Rusconi",
+      "Apunte Sol Modificado - Rotura Prematura de Membranas",
+      "Parcial Obstetricia 11/06/2025",
+      "Ecografía Obstétrica - Dra. Ybarra",
+      "Source: diapos (Hipoxia fetal aguda - Dr. Rusconi)",
+      "Fórceps - Dr. Didia"
     ],
     "generated_date": "2026-04-02",
     "duplicates_removed": 280,
@@ -15262,6 +15284,214 @@
         "answer_confidence": "high",
         "answer_reasoning": "La tromboflebitis pélvica séptica afecta con mayor frecuencia la vena ovárica derecha, por su drenaje directo en la VCI a 90°"
       }
+    },
+    {
+      "question": "Durante el embarazo, se indican las siguientes vacunas?",
+      "options": [
+        "DTPa, Antigripal, Virus Sincial Respiratorio",
+        "DTPa, Hepatitis B, Dengue",
+        "Hepatitis B, Virus Sincial Respiratorio, Varicela",
+        "DTPa, Antigripal, Rubeola",
+        "DTPa, Antigripal, Mantou"
+      ],
+      "correct_index": 0,
+      "correct_letter": "A",
+      "topic": "Control Prenatal",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+        "text_excerpt": "Las vacunas indicadas durante el embarazo son DTPa, Antigripal y Virus Sincial Respiratorio (VSR). La vacuna antigripal y DTPa son obligatorias por ley; el VSR fue incorporado en 2023-2024 para protección neonatal.",
+        "page_number": null,
+        "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf"
+      },
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false
+      },
+      "origin": "existing",
+      "id": 540
+    },
+    {
+      "question": "¿En cuáles de las siguientes infecciones perinatales se contraindica la lactancia?",
+      "options": [
+        "Sífilis",
+        "Enfermedad de Chagas",
+        "Infección por HIV",
+        "Zika",
+        "Herpes genital"
+      ],
+      "correct_index": 2,
+      "correct_letter": "C",
+      "topic": "Lactancia",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+        "text_excerpt": "La infección por HIV es contraindicación absoluta para la lactancia materna en Argentina. Las otras infecciones (sífilis, Chagas crónico, Zika, Herpes genital sin lesiones activas) no contraindican la lactancia.",
+        "page_number": null,
+        "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf"
+      },
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false
+      },
+      "origin": "existing",
+      "id": 541
+    },
+    {
+      "question": "Paciente de 32 años de edad que trae a la consulta TN plus que informa riesgo corregido para T21 1/2458. Usted le explica que…?",
+      "options": [
+        "es un método de screening y que el riesgo de T21 es bajo según el punto de corte estadístico",
+        "que por su edad se encuentra entre las pacientes de mayor riesgo de alteraciones cromosómicas y sugiere un estudio invasivo (amniocentesis o punción de vellosidad corial)",
+        "queda descartada la posibilidad de que el feto sea portador de una T21",
+        "le sugiere realización de Scan fetal en la semana 20-24 de EG",
+        "A y D son correctas"
+      ],
+      "correct_index": 4,
+      "correct_letter": "E",
+      "topic": "Control Prenatal",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+        "text_excerpt": "El TN plus es un método de screening combinado. Un riesgo corregido de 1/2458 para T21 está por debajo del punto de corte estadístico (1/250), indicando riesgo bajo. La conducta adecuada es explicar el resultado del screening y derivar para Scan fetal morfológico en semana 20-24.",
+        "page_number": null,
+        "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf"
+      },
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false
+      },
+      "origin": "existing",
+      "id": 542
+    },
+    {
+      "question": "¿Cuál de los siguientes signos NO SE CORRESPONDE HABITUALMENTE con la clínica de un embarazo ectópico?",
+      "options": [
+        "Metrorragia escasa y amarronada",
+        "Tumoración parauterina",
+        "Dolor hipogástrico tipo cólico",
+        "Tamaño uterino menor al esperado para la edad gestacional",
+        "Movilización uterina dolorosa"
+      ],
+      "correct_index": 0,
+      "correct_letter": "A",
+      "topic": "Hemorragias del Embarazo",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+        "text_excerpt": "Signos clásicos del embarazo ectópico: metrorragia escasa y amarronada, tumoración parauterina, dolor hipogástrico cólico, movilización uterina dolorosa (signo de Roustan). Precisa revisión para confirmar cuál NO corresponde.",
+        "page_number": null,
+        "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf"
+      },
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": true
+      },
+      "origin": "existing",
+      "id": 543
+    },
+    {
+      "question": "Cual de los siguientes NO es un fenómeno pasivo del trabajo de parto?",
+      "options": [
+        "Formación de la bolsa de las aguas",
+        "Acortamiento del cuello uterino",
+        "Pujos Reactivos",
+        "Expulsión del Tapón Mucoso",
+        "Formación del segmento inferior"
+      ],
+      "correct_index": 2,
+      "correct_letter": "C",
+      "topic": "Trabajo de Parto y Parto",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+        "text_excerpt": "Los fenómenos pasivos del trabajo de parto incluyen: formación del segmento inferior, borramiento y dilatación del cuello, formación de la bolsa de las aguas. Los pujos (reactivos o voluntarios) son fenómenos ACTIVOS.",
+        "page_number": null,
+        "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf"
+      },
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false
+      },
+      "origin": "existing",
+      "id": 544
+    },
+    {
+      "question": "La prevención primaria del parto pretérmino consiste en medidas realizadas a ...... Marque la CORRECTA?",
+      "options": [
+        "embarazadas con factores de riesgo como la solicitud de un urocultivo por trimestre",
+        "la población general de embarazadas como por ejemplo la solicitud de cultivo vaginal para gérmenes comunes y estreptococo betahemolítico",
+        "la población general de embarazadas como por ejemplo la solicitud de la curva de tolerancia oral a la glucosa en las semanas 24 a 28",
+        "la población general de embarazadas que consisten por ejemplo en la toma de urocultivos uno por trimestre, visita al odontólogo, entre otros",
+        "Ninguna es correcta"
+      ],
+      "correct_index": 3,
+      "correct_letter": "D",
+      "topic": "Amenaza de Parto Pretérmino",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+        "text_excerpt": "La prevención primaria del parto pretérmino consiste en medidas dirigidas a la POBLACIÓN GENERAL de embarazadas: control de urocultivos por trimestre (prevención de ITU como factor de riesgo), visita al odontólogo, etc. La prevención secundaria es para pacientes con factores de riesgo.",
+        "page_number": null,
+        "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf"
+      },
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false
+      },
+      "origin": "existing",
+      "id": 545
+    },
+    {
+      "question": "¿Cuál de los siguientes es el signo/síntoma característico de la Colestasis Intrahepática del embarazo?",
+      "options": [
+        "astenia y adinamia",
+        "edemas en miembros inferiores",
+        "prurito palmo plantar a predominio nocturno",
+        "ictericia",
+        "cefaleas, náuseas y vómitos"
+      ],
+      "correct_index": 2,
+      "correct_letter": "C",
+      "topic": "Colestasis Intrahepática Gestacional",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+        "text_excerpt": "El signo/síntoma característico y patognomónico de la Colestasis Intrahepática del embarazo es el prurito de predominio palmo-plantar y de predominio nocturno, sin lesión cutánea primaria.",
+        "page_number": null,
+        "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf"
+      },
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": false
+      },
+      "origin": "existing",
+      "id": 546
+    },
+    {
+      "question": "¿Cuál de los siguientes enunciados NO CORRESPONDE a un criterio de reactividad en el monitoreo fetal durante el parto? (NST: Non Stress Test)?",
+      "options": [
+        "Dos o más ascensos de 15 latidos en 15 segundos",
+        "Variabilidad mayor a 5 latidos",
+        "Ausencia de descensos en el trazado",
+        "Presencia de dos o más movimientos fetales constatados",
+        "Frecuencia cardíaca fetal entre 110 y 160 latidos por minuto"
+      ],
+      "correct_index": 0,
+      "correct_letter": "A",
+      "topic": "Hipoxia Fetal Aguda",
+      "difficulty": 2,
+      "source_info": {
+        "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
+        "text_excerpt": "Criterios de reactividad del NST (Test sin Estrés): 2 o más ascensos de ≥15 lpm por ≥15 segundos en 20 minutos, FCF basal 110-160 lpm, variabilidad normal (6-25 lpm). Pendiente revisión sobre si ausencia de descensos es criterio de reactividad o de ausencia de patología.",
+        "page_number": null,
+        "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf"
+      },
+      "metadata": {
+        "citation_quality": "low",
+        "needs_review": true
+      },
+      "origin": "existing",
+      "id": 547
     }
   ]
 }

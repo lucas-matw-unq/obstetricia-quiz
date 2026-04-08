@@ -604,6 +604,77 @@
       "notes": "PDF de 2 páginas: p1 tiene preguntas sobre Preeclampsia con hoja de respuestas visible (RESPUESTA 1:C, 2:D, 3:A, 4:B, 5:A) pero las preguntas no son legibles con suficiente claridad para extraer. P2 es idéntica a PHOTO-2024-11-28 (mismo examen). No se extrajeron preguntas nuevas.",
       "questions_extracted": 0,
       "question_ids_in_pool": []
+    },
+    {
+      "file_path": "sources/choices/Super compilado obstetricia done.pdf",
+      "title": "Super Compilado Obstetricia (versión completa)",
+      "author": "Compilación estudiantil",
+      "type": "choices",
+      "processed_date": "2026-04-07",
+      "status": "duplicate",
+      "pages": 17,
+      "extraction_method": "text_extraction_pypdf2",
+      "notes": "88 preguntas extraídas. Todas son duplicados exactos del banco existente (extraídas previamente del Compilado todos los choices obstetricia.pdf de 299 páginas). Es la versión 'done' del mismo compilado en formato más limpio (6 opciones a-f). No se agregaron preguntas nuevas.",
+      "questions_extracted": 0,
+      "question_ids_in_pool": []
+    },
+    {
+      "file_path": "sources/choices/Obstetricia CHOICES pdf-1.pdf",
+      "title": "Compilado Choice Obstetricia (versión 1, incompleta)",
+      "author": "Compilación estudiantil",
+      "type": "choices",
+      "processed_date": "2026-04-07",
+      "status": "duplicate",
+      "pages": 15,
+      "extraction_method": "text_extraction_pypdf2",
+      "notes": "75 preguntas extraídas. Todas son subconjunto de 'Super compilado obstetricia done.pdf' ya procesado. Versión anterior/incompleta del mismo compilado. No se agregaron preguntas nuevas.",
+      "questions_extracted": 0,
+      "question_ids_in_pool": []
+    },
+    {
+      "file_path": "sources/choices/Choice por tema.docx.pdf",
+      "title": "Choice por Tema (Obstetricia)",
+      "author": "Compilación estudiantil",
+      "type": "choices",
+      "processed_date": "2026-04-07",
+      "status": "garbled",
+      "pages": 24,
+      "extraction_method": "text_extraction_pypdf2",
+      "notes": "Mismo contenido que 'Super compilado obstetricia done.pdf' pero con texto ilegible (conversión defectuosa Word→PDF: palabras partidas por espacios, e.g. 'Epig enética'). PyPDF2 extrae texto garbled. No extraíble con métodos actuales sin OCR manual. No se agregaron preguntas.",
+      "questions_extracted": 0,
+      "question_ids_in_pool": []
+    },
+    {
+      "file_path": "sources/choices/Compilado_de_examenes_parciales_10_preguntas_UDH_Clínicas.pdf",
+      "title": "Compilado de Exámenes Parciales 10 Preguntas - UDH Clínicas",
+      "author": "Cátedra de Obstetricia / UDH Clínicas",
+      "type": "choices",
+      "processed_date": "2026-04-07",
+      "status": "processed",
+      "pages": 5,
+      "extraction_method": "text_extraction_pypdf2",
+      "notes": "Compilado de exámenes parciales del 2024 y 2025 (rotaciones 1ª y 2ª). Texto inline (todas las preguntas y opciones en una línea por página). 15 preguntas extraídas, 7 duplicadas con banco existente, 8 únicas agregadas. La última página contiene resúmenes de respuestas en formato de viñetas (no preguntas completas). Formato: N- pregunta  a- opcion  b- opcion... Examen Parcial 2024 (Qs 1-10): colestasis, vacunas, control prenatal, amenaza de aborto, hiperémesis, infecciones y lactancia, monitoreo fetal, TN plus, Leopold, sífilis. Examen Parcial 2025 1ª rotación y 2ª rotación: respuestas resumidas, sin preguntas completas para procesar.",
+      "questions_extracted": 8,
+      "question_ids_in_pool": [
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547
+      ],
+      "index": {
+        "q1": "Vacunas indicadas durante el embarazo (DTPa, Antigripal, VSR)",
+        "q2": "Infecciones perinatales que contraindican la lactancia (HIV)",
+        "q3": "TN plus riesgo corregido 1/2458 para T21 - conducta",
+        "q4": "Signo que NO corresponde a embarazo ectópico (needs_review)",
+        "q5": "Fenómenos pasivos del trabajo de parto - cuál NO es (Pujos Reactivos)",
+        "q6": "Prevención primaria del parto pretérmino - población general",
+        "q7": "Signo característico de colestasis intrahepática (prurito palmo-plantar nocturno)",
+        "q8": "Criterios de reactividad NST - cuál NO corresponde (needs_review)"
+      }
     }
   ]
 }
