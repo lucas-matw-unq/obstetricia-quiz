@@ -72,10 +72,10 @@ Obstetricia/
 
 | Stat | Value |
 |------|-------|
-| Total questions | 539 |
-| Confirmed (`needs_review: false`) | 536 |
-| Unvalidated (`needs_review: true`) | 3 (IDs: 396, 488, 507) |
-| Topics | 30 (matches CRONOGRAMA) |
+| Total questions | 476 |
+| Confirmed (`needs_review: false`) | 472 |
+| Unvalidated (`needs_review: true`) | 4 |
+| Topics | 24 active (all valid, from the 30 CRONOGRAMA topics) |
 | Origins | `existing` (real exam Qs) + `generated` (AI from apunte) |
 
 ### needs_review behavior
@@ -162,10 +162,11 @@ Merge manually or use `--existing` flag to append.
 
 ## Pending improvements
 
-- [ ] Process 4 unprocessed choices PDFs in `sources/choices/` (may contain hundreds of new Qs)
 - [ ] Generate questions from `sources/slides/` (currently extracted but 0 questions generated)
-- [ ] Resolve 3 remaining `needs_review` questions (IDs 396, 488, 507)
+- [ ] Resolve 4 remaining `needs_review` questions (2 from UDH, 2 legacy)
 - [ ] Re-examine `sources/choices/Parcial (1)-1.pdf` (has answer key but questions illegible)
+- [ ] Split "Modificaciones Gravídicas, Nutrición y Emesis" (66 Qs) into separate topics: "Primeros 1000 Días" + "Modificaciones Gravídicas, Nutrición y Emesis"
+- [ ] Add questions for 6 empty CRONOGRAMA topics: Estática Fetal, Fenómenos del Trabajo de Parto, Placenta Previa y DPPNI, Embarazo Ectópico y Mola Hidatiforme, Embarazo Prolongado, Primeros 1000 Días
 
 ---
 
