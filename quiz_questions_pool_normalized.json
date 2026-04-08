@@ -2,30 +2,31 @@
   "metadata": {
     "total_questions": 476,
     "topics": {
-      "Operación Cesárea": 23,
-      "Distocias y Fórceps": 20,
+      "Amenaza de Parto Pretérmino": 15,
+      "Atención del Trabajo de Parto": 22,
       "Cardiopatías y Embarazo": 27,
-      "Ecografía Obstétrica": 40,
-      "Puerperio y Alumbramiento": 27,
-      "Hipoxia Fetal Aguda": 30,
-      "Atención del Trabajo de Parto": 19,
-      "IVE/ILE": 3,
+      "Colestasis Intrahepática y Otras Patologías": 11,
+      "Control Prenatal": 36,
+      "Diabetes y Embarazo": 13,
       "Diagnóstico de Embarazo y Semiología Obstétrica": 19,
-      "Hipertensión y Embarazo": 26,
-      "Modificaciones Gravídicas, Nutrición y Emesis": 66,
-      "Control Prenatal": 54,
-      "Infecciones en el Embarazo": 20,
-      "Diabetes y Embarazo": 8,
-      "Amenaza de Parto Pretérmino": 16,
-      "Hemorragias del Embarazo": 20,
-      "Colestasis Intrahepática y Otras Patologías": 5,
-      "Rotura Prematura de Membranas": 12,
-      "Restricción del Crecimiento Intrauterino": 8,
-      "Líquido Amniótico": 6,
+      "Distocias y Fórceps": 22,
+      "Doppler Obstétrico": 15,
+      "Ecografía Obstétrica": 29,
+      "Embarazo Gemelar": 2,
+      "Enfermedad Hemolítica Perinatal": 8,
+      "Hemorragias del Embarazo": 18,
+      "Hipertensión y Embarazo": 34,
+      "Hipoxia Fetal Aguda": 32,
+      "IVE/ILE": 3,
+      "Infecciones en el Embarazo": 22,
       "Lactancia Materna": 7,
-      "Doppler Obstétrico": 12,
-      "Embarazo Gemelar": 1,
-      "Enfermedad Hemolítica Perinatal": 7
+      "Líquido Amniótico": 9,
+      "Modificaciones Gravídicas, Nutrición y Emesis": 57,
+      "Operación Cesárea": 24,
+      "Placenta Previa y DPPNI": 1,
+      "Puerperio y Alumbramiento": 27,
+      "Restricción del Crecimiento Intrauterino": 11,
+      "Rotura Prematura de Membranas": 12
     },
     "difficulty_distribution": {
       "1": 96,
@@ -2232,7 +2233,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Restricción del Crecimiento Intrauterino",
       "difficulty": 1,
       "id": 68,
       "source_info": {
@@ -2263,7 +2264,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Diabetes y Embarazo",
       "difficulty": 1,
       "id": 69,
       "source_info": {
@@ -4028,7 +4029,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
+      "topic": "Control Prenatal",
       "difficulty": 1,
       "id": 131,
       "source_info": {
@@ -4366,7 +4367,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Control Prenatal",
+      "topic": "Diabetes y Embarazo",
       "difficulty": 1,
       "id": 144,
       "source_info": {
@@ -4808,7 +4809,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Amenaza de Parto Pretérmino",
+      "topic": "Atención del Trabajo de Parto",
       "difficulty": 1,
       "id": 161,
       "source_info": {
@@ -4990,7 +4991,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Atención del Trabajo de Parto",
+      "topic": "Amenaza de Parto Pretérmino",
       "difficulty": 2,
       "id": 168,
       "source_info": {
@@ -5406,7 +5407,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Colestasis Intrahepática y Otras Patologías",
       "difficulty": 2,
       "id": 184,
       "source_info": {
@@ -5432,7 +5433,7 @@
       ],
       "correct_index": 3,
       "correct_letter": "D",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Hipertensión y Embarazo",
       "difficulty": 3,
       "id": 185,
       "source_info": {
@@ -5458,7 +5459,7 @@
       ],
       "correct_index": 3,
       "correct_letter": "D",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Doppler Obstétrico",
       "difficulty": 3,
       "id": 186,
       "source_info": {
@@ -5588,7 +5589,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Control Prenatal",
+      "topic": "Enfermedad Hemolítica Perinatal",
       "difficulty": 2,
       "id": 191,
       "source_info": {
@@ -5978,7 +5979,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Amenaza de Parto Pretérmino",
+      "topic": "Atención del Trabajo de Parto",
       "difficulty": 1,
       "id": 206,
       "source_info": {
@@ -6420,7 +6421,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
       "difficulty": 2,
       "id": 223,
       "source_info": {
@@ -6446,7 +6447,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
       "difficulty": 3,
       "id": 224,
       "source_info": {
@@ -6523,7 +6524,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Distocias y Fórceps",
       "difficulty": 3,
       "id": 227,
       "source_info": {
@@ -6601,7 +6602,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Control Prenatal",
+      "topic": "Hipertensión y Embarazo",
       "difficulty": 2,
       "id": 230,
       "source_info": {
@@ -6756,7 +6757,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Control Prenatal",
+      "topic": "Hipertensión y Embarazo",
       "difficulty": 3,
       "id": 236,
       "source_info": {
@@ -6808,7 +6809,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Amenaza de Parto Pretérmino",
       "difficulty": 4,
       "id": 238,
       "source_info": {
@@ -6860,7 +6861,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Líquido Amniótico",
       "difficulty": 3,
       "id": 240,
       "source_info": {
@@ -6912,7 +6913,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Control Prenatal",
+      "topic": "Colestasis Intrahepática y Otras Patologías",
       "difficulty": 2,
       "id": 242,
       "source_info": {
@@ -7013,7 +7014,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Control Prenatal",
+      "topic": "Hipertensión y Embarazo",
       "difficulty": 2,
       "id": 246,
       "source_info": {
@@ -7039,7 +7040,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Control Prenatal",
+      "topic": "Hipertensión y Embarazo",
       "difficulty": 2,
       "id": 247,
       "source_info": {
@@ -7065,7 +7066,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Control Prenatal",
+      "topic": "Hipertensión y Embarazo",
       "difficulty": 3,
       "id": 248,
       "source_info": {
@@ -7091,7 +7092,7 @@
       ],
       "correct_index": 3,
       "correct_letter": "D",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Hipertensión y Embarazo",
       "difficulty": 2,
       "id": 249,
       "source_info": {
@@ -7117,7 +7118,7 @@
       ],
       "correct_index": 3,
       "correct_letter": "D",
-      "topic": "Control Prenatal",
+      "topic": "Restricción del Crecimiento Intrauterino",
       "difficulty": 2,
       "id": 250,
       "source_info": {
@@ -7451,7 +7452,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Diabetes y Embarazo",
       "difficulty": 5,
       "id": 263,
       "source_info": {
@@ -7476,7 +7477,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Control Prenatal",
+      "topic": "Hipoxia Fetal Aguda",
       "difficulty": 3,
       "id": 264,
       "source_info": {
@@ -7553,7 +7554,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Control Prenatal",
+      "topic": "Hipoxia Fetal Aguda",
       "difficulty": 2,
       "id": 267,
       "source_info": {
@@ -7683,7 +7684,7 @@
       ],
       "correct_index": 3,
       "correct_letter": "D",
-      "topic": "Modificaciones Gravídicas, Nutrición y Emesis",
+      "topic": "Atención del Trabajo de Parto",
       "difficulty": 3,
       "id": 272,
       "source_info": {
@@ -7709,7 +7710,7 @@
       ],
       "correct_index": 3,
       "correct_letter": "D",
-      "topic": "Control Prenatal",
+      "topic": "Diabetes y Embarazo",
       "difficulty": 4,
       "id": 273,
       "source_info": {
@@ -7734,7 +7735,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Control Prenatal",
+      "topic": "Hipertensión y Embarazo",
       "difficulty": 2,
       "id": 274,
       "source_info": {
@@ -7837,7 +7838,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Restricción del Crecimiento Intrauterino",
       "difficulty": 1,
       "id": 278,
       "source_info": {
@@ -7889,7 +7890,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Líquido Amniótico",
       "difficulty": 2,
       "id": 280,
       "source_info": {
@@ -7915,7 +7916,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Líquido Amniótico",
       "difficulty": 2,
       "id": 281,
       "source_info": {
@@ -8177,7 +8178,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Control Prenatal",
+      "topic": "Colestasis Intrahepática y Otras Patologías",
       "difficulty": 3,
       "source_info": {
         "source_name": "Final Obstetricia - Octubre 2024",
@@ -8211,7 +8212,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Control Prenatal",
+      "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
         "source_name": "Final Obstetricia - Octubre 2024",
@@ -8522,7 +8523,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Embarazo Gemelar",
       "difficulty": 2,
       "source_info": {
         "source_name": "Final Obstetricia 11-12-2024",
@@ -9014,7 +9015,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Control Prenatal",
+      "topic": "Colestasis Intrahepática y Otras Patologías",
       "difficulty": 2,
       "source_info": {
         "source_name": "Final Obstetricia 11-12-2024",
@@ -9308,7 +9309,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Doppler Obstétrico",
       "difficulty": 3,
       "source_info": {
         "source_name": "Final Obstetricia 11-12-2024",
@@ -9341,7 +9342,7 @@
       ],
       "correct_index": 4,
       "correct_letter": "E",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Doppler Obstétrico",
       "difficulty": 3,
       "source_info": {
         "source_name": "Final Obstetricia 11-12-2024",
@@ -9576,7 +9577,7 @@
       ],
       "correct_index": 3,
       "correct_letter": "D",
-      "topic": "Ecografía Obstétrica",
+      "topic": "Doppler Obstétrico",
       "difficulty": 3,
       "source_info": {
         "source_name": "Examen Parcial 5° Rotación 22/8/2024",
@@ -9609,7 +9610,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Control Prenatal",
+      "topic": "Colestasis Intrahepática y Otras Patologías",
       "difficulty": 2,
       "source_info": {
         "source_name": "Examen Parcial 5° Rotación 22/8/2024",
@@ -9642,7 +9643,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Control Prenatal",
+      "topic": "Colestasis Intrahepática y Otras Patologías",
       "difficulty": 1,
       "source_info": {
         "source_name": "Examen Parcial 5° Rotación 22/8/2024",
@@ -11222,7 +11223,7 @@
       ],
       "correct_index": 2,
       "correct_letter": "C",
-      "topic": "Diagnóstico de Embarazo y Semiología Obstétrica",
+      "topic": "Atención del Trabajo de Parto",
       "difficulty": 2,
       "source_info": {
         "source_name": "Compilado choices Obstetricia",
@@ -11338,7 +11339,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Hemorragias del Embarazo",
+      "topic": "Placenta Previa y DPPNI",
       "difficulty": 2,
       "source_info": {
         "source_name": "Compilado choices Obstetricia",
@@ -12208,7 +12209,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Hemorragias del Embarazo",
+      "topic": "Operación Cesárea",
       "difficulty": 2,
       "source_info": {
         "source_name": "Compilado choices Obstetricia",
@@ -12836,7 +12837,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Doppler Obstétrico",
+      "topic": "Distocias y Fórceps",
       "difficulty": 2,
       "source_info": {
         "source_name": "Compilado choices Obstetricia",
@@ -13010,7 +13011,7 @@
       ],
       "correct_index": 1,
       "correct_letter": "B",
-      "topic": "Amenaza de Parto Pretérmino",
+      "topic": "Diabetes y Embarazo",
       "difficulty": 2,
       "source_info": {
         "source_name": "Compilado choices Obstetricia",
@@ -13316,7 +13317,7 @@
       ],
       "correct_index": 0,
       "correct_letter": "A",
-      "topic": "Control Prenatal",
+      "topic": "Infecciones en el Embarazo",
       "difficulty": 2,
       "source_info": {
         "source_name": "Compilado Exámenes Parciales 10 Preguntas UDH Clínicas",
